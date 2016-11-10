@@ -1,0 +1,1485 @@
+OUT_name,Abundance,Day,Treatment1,Treatment2,Combined_Treatment12
+01: g_Sporosarcina ,4,0,With urea,High moisture,Urea+Low_moisture
+01: g_Sporosarcina ,4,0,With urea,Low moisture,Urea+High_moisture
+01: g_Sporosarcina ,2,0,With urea,Low moisture,Urea+High_moisture
+01: g_Sporosarcina ,2,0,With urea,High moisture,Urea+Low_moisture
+01: g_Sporosarcina ,2,0,With urea,Low moisture,Urea+High_moisture
+01: g_Sporosarcina ,1,0,With urea,High moisture,Urea+Low_moisture
+01: g_Sporosarcina ,1,0,Without urea,Low moisture,No_Urea+High_moisture
+01: g_Sporosarcina ,1,0,Without urea,Low moisture,No_Urea+High_moisture
+01: g_Sporosarcina ,1,0,Without urea,Low moisture,No_Urea+High_moisture
+01: g_Sporosarcina ,0,0,Without urea,High moisture,No_Urea+Low_moisture
+01: g_Sporosarcina ,0,0,Without urea,High moisture,No_Urea+Low_moisture
+01: g_Sporosarcina ,0,0,Without urea,High moisture,No_Urea+Low_moisture
+01: g_Sporosarcina ,546,7,With urea,High moisture,Urea+Low_moisture
+01: g_Sporosarcina ,501,7,With urea,Low moisture,Urea+High_moisture
+01: g_Sporosarcina ,375,7,With urea,High moisture,Urea+Low_moisture
+01: g_Sporosarcina ,150,7,With urea,High moisture,Urea+Low_moisture
+01: g_Sporosarcina ,2,7,Without urea,Low moisture,No_Urea+High_moisture
+01: g_Sporosarcina ,1,7,Without urea,High moisture,No_Urea+Low_moisture
+01: g_Sporosarcina ,0,7,Without urea,Low moisture,No_Urea+High_moisture
+01: g_Sporosarcina ,0,7,Without urea,High moisture,No_Urea+Low_moisture
+01: g_Sporosarcina ,0,7,Without urea,Low moisture,No_Urea+High_moisture
+01: g_Sporosarcina ,0,7,Without urea,High moisture,No_Urea+Low_moisture
+01: g_Sporosarcina ,147,14,With urea,High moisture,Urea+Low_moisture
+01: g_Sporosarcina ,136,14,With urea,High moisture,Urea+Low_moisture
+01: g_Sporosarcina ,127,14,With urea,High moisture,Urea+Low_moisture
+01: g_Sporosarcina ,60,14,With urea,Low moisture,Urea+High_moisture
+01: g_Sporosarcina ,33,14,With urea,Low moisture,Urea+High_moisture
+01: g_Sporosarcina ,25,14,With urea,Low moisture,Urea+High_moisture
+01: g_Sporosarcina ,90,21,With urea,High moisture,Urea+Low_moisture
+01: g_Sporosarcina ,82,21,With urea,High moisture,Urea+Low_moisture
+01: g_Sporosarcina ,18,21,With urea,Low moisture,Urea+High_moisture
+01: g_Sporosarcina ,3,21,Without urea,High moisture,No_Urea+Low_moisture
+01: g_Sporosarcina ,1,21,Without urea,Low moisture,No_Urea+High_moisture
+01: g_Sporosarcina ,0,21,Without urea,High moisture,No_Urea+Low_moisture
+01: g_Sporosarcina ,0,21,Without urea,High moisture,No_Urea+Low_moisture
+01: g_Sporosarcina ,66,35,With urea,High moisture,Urea+Low_moisture
+01: g_Sporosarcina ,41,35,With urea,High moisture,Urea+Low_moisture
+01: g_Sporosarcina ,40,35,With urea,High moisture,Urea+Low_moisture
+01: g_Sporosarcina ,13,35,With urea,Low moisture,Urea+High_moisture
+01: g_Sporosarcina ,9,35,With urea,Low moisture,Urea+High_moisture
+01: g_Sporosarcina ,8,35,With urea,Low moisture,Urea+High_moisture
+01: g_Sporosarcina ,22,63,With urea,Low moisture,Urea+High_moisture
+01: g_Sporosarcina ,18,63,With urea,High moisture,Urea+Low_moisture
+01: g_Sporosarcina ,10,63,With urea,Low moisture,Urea+High_moisture
+01: g_Sporosarcina ,10,63,With urea,Low moisture,Urea+High_moisture
+01: g_Sporosarcina ,6,63,With urea,High moisture,Urea+Low_moisture
+01: g_Sporosarcina ,3,63,With urea,High moisture,Urea+Low_moisture
+01: g_Sporosarcina ,2,63,Without urea,Low moisture,No_Urea+High_moisture
+01: g_Sporosarcina ,2,63,Without urea,High moisture,No_Urea+Low_moisture
+01: g_Sporosarcina ,1,63,Without urea,Low moisture,No_Urea+High_moisture
+01: g_Sporosarcina ,1,63,Without urea,High moisture,No_Urea+Low_moisture
+01: g_Sporosarcina ,0,63,Without urea,Low moisture,No_Urea+High_moisture
+01: g_Sporosarcina ,0,63,Without urea,High moisture,No_Urea+Low_moisture
+02: g_Actinoplanes,0,0,With urea,High moisture,Urea+Low_moisture
+02: g_Actinoplanes,0,0,Without urea,High moisture,No_Urea+Low_moisture
+02: g_Actinoplanes,0,0,Without urea,High moisture,No_Urea+Low_moisture
+02: g_Actinoplanes,0,0,With urea,High moisture,Urea+Low_moisture
+02: g_Actinoplanes,0,0,Without urea,Low moisture,No_Urea+High_moisture
+02: g_Actinoplanes,0,0,Without urea,Low moisture,No_Urea+High_moisture
+02: g_Actinoplanes,0,0,With urea,Low moisture,Urea+High_moisture
+02: g_Actinoplanes,0,0,Without urea,High moisture,No_Urea+Low_moisture
+02: g_Actinoplanes,0,0,With urea,High moisture,Urea+Low_moisture
+02: g_Actinoplanes,0,0,With urea,Low moisture,Urea+High_moisture
+02: g_Actinoplanes,0,0,Without urea,Low moisture,No_Urea+High_moisture
+02: g_Actinoplanes,0,0,With urea,Low moisture,Urea+High_moisture
+02: g_Actinoplanes,41,7,With urea,Low moisture,Urea+High_moisture
+02: g_Actinoplanes,6,7,With urea,High moisture,Urea+Low_moisture
+02: g_Actinoplanes,2,7,With urea,High moisture,Urea+Low_moisture
+02: g_Actinoplanes,1,7,With urea,High moisture,Urea+Low_moisture
+02: g_Actinoplanes,0,7,Without urea,High moisture,No_Urea+Low_moisture
+02: g_Actinoplanes,0,7,Without urea,High moisture,No_Urea+Low_moisture
+02: g_Actinoplanes,0,7,Without urea,Low moisture,No_Urea+High_moisture
+02: g_Actinoplanes,0,7,Without urea,Low moisture,No_Urea+High_moisture
+02: g_Actinoplanes,0,7,Without urea,Low moisture,No_Urea+High_moisture
+02: g_Actinoplanes,0,7,Without urea,High moisture,No_Urea+Low_moisture
+02: g_Actinoplanes,605,14,With urea,Low moisture,Urea+High_moisture
+02: g_Actinoplanes,603,14,With urea,Low moisture,Urea+High_moisture
+02: g_Actinoplanes,391,14,With urea,Low moisture,Urea+High_moisture
+02: g_Actinoplanes,12,14,With urea,High moisture,Urea+Low_moisture
+02: g_Actinoplanes,5,14,With urea,High moisture,Urea+Low_moisture
+02: g_Actinoplanes,2,14,With urea,High moisture,Urea+Low_moisture
+02: g_Actinoplanes,612,21,With urea,Low moisture,Urea+High_moisture
+02: g_Actinoplanes,6,21,With urea,High moisture,Urea+Low_moisture
+02: g_Actinoplanes,4,21,With urea,High moisture,Urea+Low_moisture
+02: g_Actinoplanes,0,21,Without urea,Low moisture,No_Urea+High_moisture
+02: g_Actinoplanes,0,21,Without urea,High moisture,No_Urea+Low_moisture
+02: g_Actinoplanes,0,21,Without urea,High moisture,No_Urea+Low_moisture
+02: g_Actinoplanes,0,21,Without urea,High moisture,No_Urea+Low_moisture
+02: g_Actinoplanes,1121,35,With urea,Low moisture,Urea+High_moisture
+02: g_Actinoplanes,913,35,With urea,Low moisture,Urea+High_moisture
+02: g_Actinoplanes,540,35,With urea,Low moisture,Urea+High_moisture
+02: g_Actinoplanes,9,35,With urea,High moisture,Urea+Low_moisture
+02: g_Actinoplanes,8,35,With urea,High moisture,Urea+Low_moisture
+02: g_Actinoplanes,7,35,With urea,High moisture,Urea+Low_moisture
+02: g_Actinoplanes,920,63,With urea,Low moisture,Urea+High_moisture
+02: g_Actinoplanes,720,63,With urea,Low moisture,Urea+High_moisture
+02: g_Actinoplanes,710,63,With urea,Low moisture,Urea+High_moisture
+02: g_Actinoplanes,3,63,With urea,High moisture,Urea+Low_moisture
+02: g_Actinoplanes,2,63,With urea,High moisture,Urea+Low_moisture
+02: g_Actinoplanes,2,63,With urea,High moisture,Urea+Low_moisture
+02: g_Actinoplanes,1,63,Without urea,High moisture,No_Urea+Low_moisture
+02: g_Actinoplanes,0,63,Without urea,High moisture,No_Urea+Low_moisture
+02: g_Actinoplanes,0,63,Without urea,Low moisture,No_Urea+High_moisture
+02: g_Actinoplanes,0,63,Without urea,High moisture,No_Urea+Low_moisture
+02: g_Actinoplanes,0,63,Without urea,Low moisture,No_Urea+High_moisture
+02: g_Actinoplanes,0,63,Without urea,Low moisture,No_Urea+High_moisture
+03: f_Cytophagaceae,1,0,With urea,Low moisture,Urea+High_moisture
+03: f_Cytophagaceae,1,0,Without urea,High moisture,No_Urea+Low_moisture
+03: f_Cytophagaceae,0,0,With urea,High moisture,Urea+Low_moisture
+03: f_Cytophagaceae,0,0,With urea,Low moisture,Urea+High_moisture
+03: f_Cytophagaceae,0,0,With urea,High moisture,Urea+Low_moisture
+03: f_Cytophagaceae,0,0,With urea,Low moisture,Urea+High_moisture
+03: f_Cytophagaceae,0,0,Without urea,Low moisture,No_Urea+High_moisture
+03: f_Cytophagaceae,0,0,Without urea,Low moisture,No_Urea+High_moisture
+03: f_Cytophagaceae,0,0,With urea,High moisture,Urea+Low_moisture
+03: f_Cytophagaceae,0,0,Without urea,High moisture,No_Urea+Low_moisture
+03: f_Cytophagaceae,0,0,Without urea,Low moisture,No_Urea+High_moisture
+03: f_Cytophagaceae,0,0,Without urea,High moisture,No_Urea+Low_moisture
+03: f_Cytophagaceae,4,7,With urea,High moisture,Urea+Low_moisture
+03: f_Cytophagaceae,2,7,With urea,High moisture,Urea+Low_moisture
+03: f_Cytophagaceae,0,7,Without urea,Low moisture,No_Urea+High_moisture
+03: f_Cytophagaceae,0,7,With urea,Low moisture,Urea+High_moisture
+03: f_Cytophagaceae,0,7,Without urea,High moisture,No_Urea+Low_moisture
+03: f_Cytophagaceae,0,7,Without urea,High moisture,No_Urea+Low_moisture
+03: f_Cytophagaceae,0,7,Without urea,Low moisture,No_Urea+High_moisture
+03: f_Cytophagaceae,0,7,With urea,High moisture,Urea+Low_moisture
+03: f_Cytophagaceae,0,7,Without urea,Low moisture,No_Urea+High_moisture
+03: f_Cytophagaceae,0,7,Without urea,High moisture,No_Urea+Low_moisture
+03: f_Cytophagaceae,81,14,With urea,Low moisture,Urea+High_moisture
+03: f_Cytophagaceae,48,14,With urea,Low moisture,Urea+High_moisture
+03: f_Cytophagaceae,30,14,With urea,Low moisture,Urea+High_moisture
+03: f_Cytophagaceae,10,14,With urea,High moisture,Urea+Low_moisture
+03: f_Cytophagaceae,7,14,With urea,High moisture,Urea+Low_moisture
+03: f_Cytophagaceae,4,14,With urea,High moisture,Urea+Low_moisture
+03: f_Cytophagaceae,196,21,With urea,Low moisture,Urea+High_moisture
+03: f_Cytophagaceae,41,21,With urea,High moisture,Urea+Low_moisture
+03: f_Cytophagaceae,18,21,With urea,High moisture,Urea+Low_moisture
+03: f_Cytophagaceae,0,21,Without urea,Low moisture,No_Urea+High_moisture
+03: f_Cytophagaceae,0,21,Without urea,High moisture,No_Urea+Low_moisture
+03: f_Cytophagaceae,0,21,Without urea,High moisture,No_Urea+Low_moisture
+03: f_Cytophagaceae,0,21,Without urea,High moisture,No_Urea+Low_moisture
+03: f_Cytophagaceae,655,35,With urea,Low moisture,Urea+High_moisture
+03: f_Cytophagaceae,631,35,With urea,Low moisture,Urea+High_moisture
+03: f_Cytophagaceae,308,35,With urea,Low moisture,Urea+High_moisture
+03: f_Cytophagaceae,178,35,With urea,High moisture,Urea+Low_moisture
+03: f_Cytophagaceae,112,35,With urea,High moisture,Urea+Low_moisture
+03: f_Cytophagaceae,108,35,With urea,High moisture,Urea+Low_moisture
+03: f_Cytophagaceae,456,63,With urea,Low moisture,Urea+High_moisture
+03: f_Cytophagaceae,256,63,With urea,Low moisture,Urea+High_moisture
+03: f_Cytophagaceae,253,63,With urea,High moisture,Urea+Low_moisture
+03: f_Cytophagaceae,239,63,With urea,High moisture,Urea+Low_moisture
+03: f_Cytophagaceae,222,63,With urea,Low moisture,Urea+High_moisture
+03: f_Cytophagaceae,46,63,With urea,High moisture,Urea+Low_moisture
+03: f_Cytophagaceae,0,63,Without urea,High moisture,No_Urea+Low_moisture
+03: f_Cytophagaceae,0,63,Without urea,High moisture,No_Urea+Low_moisture
+03: f_Cytophagaceae,0,63,Without urea,Low moisture,No_Urea+High_moisture
+03: f_Cytophagaceae,0,63,Without urea,High moisture,No_Urea+Low_moisture
+03: f_Cytophagaceae,0,63,Without urea,Low moisture,No_Urea+High_moisture
+03: f_Cytophagaceae,0,63,Without urea,Low moisture,No_Urea+High_moisture
+04: g_Clostridium sensu ,1,0,Without urea,High moisture,No_Urea+Low_moisture
+04: g_Clostridium sensu ,1,0,With urea,Low moisture,Urea+High_moisture
+04: g_Clostridium sensu ,1,0,Without urea,Low moisture,No_Urea+High_moisture
+04: g_Clostridium sensu ,0,0,Without urea,High moisture,No_Urea+Low_moisture
+04: g_Clostridium sensu ,0,0,With urea,High moisture,Urea+Low_moisture
+04: g_Clostridium sensu ,0,0,Without urea,High moisture,No_Urea+Low_moisture
+04: g_Clostridium sensu ,0,0,Without urea,Low moisture,No_Urea+High_moisture
+04: g_Clostridium sensu ,0,0,With urea,High moisture,Urea+Low_moisture
+04: g_Clostridium sensu ,0,0,With urea,High moisture,Urea+Low_moisture
+04: g_Clostridium sensu ,0,0,Without urea,Low moisture,No_Urea+High_moisture
+04: g_Clostridium sensu ,0,0,With urea,Low moisture,Urea+High_moisture
+04: g_Clostridium sensu ,0,0,With urea,Low moisture,Urea+High_moisture
+04: g_Clostridium sensu ,6,7,With urea,High moisture,Urea+Low_moisture
+04: g_Clostridium sensu ,4,7,With urea,High moisture,Urea+Low_moisture
+04: g_Clostridium sensu ,3,7,With urea,High moisture,Urea+Low_moisture
+04: g_Clostridium sensu ,2,7,Without urea,Low moisture,No_Urea+High_moisture
+04: g_Clostridium sensu ,1,7,With urea,Low moisture,Urea+High_moisture
+04: g_Clostridium sensu ,1,7,Without urea,Low moisture,No_Urea+High_moisture
+04: g_Clostridium sensu ,1,7,Without urea,High moisture,No_Urea+Low_moisture
+04: g_Clostridium sensu ,1,7,Without urea,High moisture,No_Urea+Low_moisture
+04: g_Clostridium sensu ,0,7,Without urea,Low moisture,No_Urea+High_moisture
+04: g_Clostridium sensu ,0,7,Without urea,High moisture,No_Urea+Low_moisture
+04: g_Clostridium sensu ,9,14,With urea,High moisture,Urea+Low_moisture
+04: g_Clostridium sensu ,8,14,With urea,High moisture,Urea+Low_moisture
+04: g_Clostridium sensu ,5,14,With urea,High moisture,Urea+Low_moisture
+04: g_Clostridium sensu ,3,14,With urea,Low moisture,Urea+High_moisture
+04: g_Clostridium sensu ,3,14,With urea,Low moisture,Urea+High_moisture
+04: g_Clostridium sensu ,3,14,With urea,Low moisture,Urea+High_moisture
+04: g_Clostridium sensu ,53,21,With urea,High moisture,Urea+Low_moisture
+04: g_Clostridium sensu ,19,21,With urea,High moisture,Urea+Low_moisture
+04: g_Clostridium sensu ,3,21,Without urea,High moisture,No_Urea+Low_moisture
+04: g_Clostridium sensu ,2,21,With urea,Low moisture,Urea+High_moisture
+04: g_Clostridium sensu ,1,21,Without urea,High moisture,No_Urea+Low_moisture
+04: g_Clostridium sensu ,0,21,Without urea,High moisture,No_Urea+Low_moisture
+04: g_Clostridium sensu ,0,21,Without urea,Low moisture,No_Urea+High_moisture
+04: g_Clostridium sensu ,221,35,With urea,High moisture,Urea+Low_moisture
+04: g_Clostridium sensu ,201,35,With urea,High moisture,Urea+Low_moisture
+04: g_Clostridium sensu ,186,35,With urea,High moisture,Urea+Low_moisture
+04: g_Clostridium sensu ,7,35,With urea,Low moisture,Urea+High_moisture
+04: g_Clostridium sensu ,6,35,With urea,Low moisture,Urea+High_moisture
+04: g_Clostridium sensu ,4,35,With urea,Low moisture,Urea+High_moisture
+04: g_Clostridium sensu ,884,63,With urea,High moisture,Urea+Low_moisture
+04: g_Clostridium sensu ,257,63,With urea,High moisture,Urea+Low_moisture
+04: g_Clostridium sensu ,90,63,With urea,High moisture,Urea+Low_moisture
+04: g_Clostridium sensu ,42,63,With urea,Low moisture,Urea+High_moisture
+04: g_Clostridium sensu ,30,63,With urea,Low moisture,Urea+High_moisture
+04: g_Clostridium sensu ,24,63,With urea,Low moisture,Urea+High_moisture
+04: g_Clostridium sensu ,1,63,Without urea,Low moisture,No_Urea+High_moisture
+04: g_Clostridium sensu ,0,63,Without urea,High moisture,No_Urea+Low_moisture
+04: g_Clostridium sensu ,0,63,Without urea,Low moisture,No_Urea+High_moisture
+04: g_Clostridium sensu ,0,63,Without urea,High moisture,No_Urea+Low_moisture
+04: g_Clostridium sensu ,0,63,Without urea,Low moisture,No_Urea+High_moisture
+04: g_Clostridium sensu ,0,63,Without urea,High moisture,No_Urea+Low_moisture
+05: f_Paenibacillaceae,1,0,With urea,High moisture,Urea+Low_moisture
+05: f_Paenibacillaceae,0,0,Without urea,High moisture,No_Urea+Low_moisture
+05: f_Paenibacillaceae,0,0,Without urea,High moisture,No_Urea+Low_moisture
+05: f_Paenibacillaceae,0,0,With urea,High moisture,Urea+Low_moisture
+05: f_Paenibacillaceae,0,0,Without urea,Low moisture,No_Urea+High_moisture
+05: f_Paenibacillaceae,0,0,Without urea,Low moisture,No_Urea+High_moisture
+05: f_Paenibacillaceae,0,0,Without urea,High moisture,No_Urea+Low_moisture
+05: f_Paenibacillaceae,0,0,With urea,High moisture,Urea+Low_moisture
+05: f_Paenibacillaceae,0,0,With urea,Low moisture,Urea+High_moisture
+05: f_Paenibacillaceae,0,0,With urea,Low moisture,Urea+High_moisture
+05: f_Paenibacillaceae,0,0,With urea,Low moisture,Urea+High_moisture
+05: f_Paenibacillaceae,0,0,Without urea,Low moisture,No_Urea+High_moisture
+05: f_Paenibacillaceae,380,7,With urea,Low moisture,Urea+High_moisture
+05: f_Paenibacillaceae,99,7,With urea,High moisture,Urea+Low_moisture
+05: f_Paenibacillaceae,98,7,With urea,High moisture,Urea+Low_moisture
+05: f_Paenibacillaceae,71,7,With urea,High moisture,Urea+Low_moisture
+05: f_Paenibacillaceae,0,7,Without urea,High moisture,No_Urea+Low_moisture
+05: f_Paenibacillaceae,0,7,Without urea,Low moisture,No_Urea+High_moisture
+05: f_Paenibacillaceae,0,7,Without urea,Low moisture,No_Urea+High_moisture
+05: f_Paenibacillaceae,0,7,Without urea,High moisture,No_Urea+Low_moisture
+05: f_Paenibacillaceae,0,7,Without urea,High moisture,No_Urea+Low_moisture
+05: f_Paenibacillaceae,0,7,Without urea,Low moisture,No_Urea+High_moisture
+05: f_Paenibacillaceae,144,14,With urea,High moisture,Urea+Low_moisture
+05: f_Paenibacillaceae,126,14,With urea,High moisture,Urea+Low_moisture
+05: f_Paenibacillaceae,105,14,With urea,High moisture,Urea+Low_moisture
+05: f_Paenibacillaceae,70,14,With urea,Low moisture,Urea+High_moisture
+05: f_Paenibacillaceae,44,14,With urea,Low moisture,Urea+High_moisture
+05: f_Paenibacillaceae,42,14,With urea,Low moisture,Urea+High_moisture
+05: f_Paenibacillaceae,37,21,With urea,High moisture,Urea+Low_moisture
+05: f_Paenibacillaceae,30,21,With urea,High moisture,Urea+Low_moisture
+05: f_Paenibacillaceae,3,21,With urea,Low moisture,Urea+High_moisture
+05: f_Paenibacillaceae,0,21,Without urea,High moisture,No_Urea+Low_moisture
+05: f_Paenibacillaceae,0,21,Without urea,High moisture,No_Urea+Low_moisture
+05: f_Paenibacillaceae,0,21,Without urea,Low moisture,No_Urea+High_moisture
+05: f_Paenibacillaceae,0,21,Without urea,High moisture,No_Urea+Low_moisture
+05: f_Paenibacillaceae,39,35,With urea,High moisture,Urea+Low_moisture
+05: f_Paenibacillaceae,26,35,With urea,High moisture,Urea+Low_moisture
+05: f_Paenibacillaceae,7,35,With urea,High moisture,Urea+Low_moisture
+05: f_Paenibacillaceae,2,35,With urea,Low moisture,Urea+High_moisture
+05: f_Paenibacillaceae,1,35,With urea,Low moisture,Urea+High_moisture
+05: f_Paenibacillaceae,0,35,With urea,Low moisture,Urea+High_moisture
+05: f_Paenibacillaceae,9,63,With urea,High moisture,Urea+Low_moisture
+05: f_Paenibacillaceae,9,63,With urea,High moisture,Urea+Low_moisture
+05: f_Paenibacillaceae,4,63,With urea,High moisture,Urea+Low_moisture
+05: f_Paenibacillaceae,2,63,With urea,Low moisture,Urea+High_moisture
+05: f_Paenibacillaceae,1,63,With urea,Low moisture,Urea+High_moisture
+05: f_Paenibacillaceae,1,63,With urea,Low moisture,Urea+High_moisture
+05: f_Paenibacillaceae,0,63,Without urea,High moisture,No_Urea+Low_moisture
+05: f_Paenibacillaceae,0,63,Without urea,Low moisture,No_Urea+High_moisture
+05: f_Paenibacillaceae,0,63,Without urea,High moisture,No_Urea+Low_moisture
+05: f_Paenibacillaceae,0,63,Without urea,Low moisture,No_Urea+High_moisture
+05: f_Paenibacillaceae,0,63,Without urea,Low moisture,No_Urea+High_moisture
+05: f_Paenibacillaceae,0,63,Without urea,High moisture,No_Urea+Low_moisture
+06: g_Paenibacillus,0,0,With urea,Low moisture,Urea+High_moisture
+06: g_Paenibacillus,0,0,Without urea,Low moisture,No_Urea+High_moisture
+06: g_Paenibacillus,0,0,With urea,Low moisture,Urea+High_moisture
+06: g_Paenibacillus,0,0,Without urea,Low moisture,No_Urea+High_moisture
+06: g_Paenibacillus,0,0,Without urea,High moisture,No_Urea+Low_moisture
+06: g_Paenibacillus,0,0,With urea,High moisture,Urea+Low_moisture
+06: g_Paenibacillus,0,0,With urea,High moisture,Urea+Low_moisture
+06: g_Paenibacillus,0,0,Without urea,High moisture,No_Urea+Low_moisture
+06: g_Paenibacillus,0,0,Without urea,High moisture,No_Urea+Low_moisture
+06: g_Paenibacillus,0,0,Without urea,Low moisture,No_Urea+High_moisture
+06: g_Paenibacillus,0,0,With urea,Low moisture,Urea+High_moisture
+06: g_Paenibacillus,0,0,With urea,High moisture,Urea+Low_moisture
+06: g_Paenibacillus,122,7,With urea,Low moisture,Urea+High_moisture
+06: g_Paenibacillus,27,7,With urea,High moisture,Urea+Low_moisture
+06: g_Paenibacillus,24,7,With urea,High moisture,Urea+Low_moisture
+06: g_Paenibacillus,23,7,With urea,High moisture,Urea+Low_moisture
+06: g_Paenibacillus,0,7,Without urea,Low moisture,No_Urea+High_moisture
+06: g_Paenibacillus,0,7,Without urea,Low moisture,No_Urea+High_moisture
+06: g_Paenibacillus,0,7,Without urea,Low moisture,No_Urea+High_moisture
+06: g_Paenibacillus,0,7,Without urea,High moisture,No_Urea+Low_moisture
+06: g_Paenibacillus,0,7,Without urea,High moisture,No_Urea+Low_moisture
+06: g_Paenibacillus,0,7,Without urea,High moisture,No_Urea+Low_moisture
+06: g_Paenibacillus,224,14,With urea,Low moisture,Urea+High_moisture
+06: g_Paenibacillus,202,14,With urea,Low moisture,Urea+High_moisture
+06: g_Paenibacillus,183,14,With urea,Low moisture,Urea+High_moisture
+06: g_Paenibacillus,36,14,With urea,High moisture,Urea+Low_moisture
+06: g_Paenibacillus,35,14,With urea,High moisture,Urea+Low_moisture
+06: g_Paenibacillus,24,14,With urea,High moisture,Urea+Low_moisture
+06: g_Paenibacillus,196,21,With urea,Low moisture,Urea+High_moisture
+06: g_Paenibacillus,52,21,With urea,High moisture,Urea+Low_moisture
+06: g_Paenibacillus,22,21,With urea,High moisture,Urea+Low_moisture
+06: g_Paenibacillus,0,21,Without urea,Low moisture,No_Urea+High_moisture
+06: g_Paenibacillus,0,21,Without urea,High moisture,No_Urea+Low_moisture
+06: g_Paenibacillus,0,21,Without urea,High moisture,No_Urea+Low_moisture
+06: g_Paenibacillus,0,21,Without urea,High moisture,No_Urea+Low_moisture
+06: g_Paenibacillus,156,35,With urea,Low moisture,Urea+High_moisture
+06: g_Paenibacillus,102,35,With urea,Low moisture,Urea+High_moisture
+06: g_Paenibacillus,87,35,With urea,Low moisture,Urea+High_moisture
+06: g_Paenibacillus,49,35,With urea,High moisture,Urea+Low_moisture
+06: g_Paenibacillus,46,35,With urea,High moisture,Urea+Low_moisture
+06: g_Paenibacillus,24,35,With urea,High moisture,Urea+Low_moisture
+06: g_Paenibacillus,14,63,With urea,High moisture,Urea+Low_moisture
+06: g_Paenibacillus,13,63,With urea,High moisture,Urea+Low_moisture
+06: g_Paenibacillus,3,63,With urea,Low moisture,Urea+High_moisture
+06: g_Paenibacillus,2,63,With urea,High moisture,Urea+Low_moisture
+06: g_Paenibacillus,2,63,With urea,Low moisture,Urea+High_moisture
+06: g_Paenibacillus,1,63,With urea,Low moisture,Urea+High_moisture
+06: g_Paenibacillus,0,63,Without urea,High moisture,No_Urea+Low_moisture
+06: g_Paenibacillus,0,63,Without urea,High moisture,No_Urea+Low_moisture
+06: g_Paenibacillus,0,63,Without urea,High moisture,No_Urea+Low_moisture
+06: g_Paenibacillus,0,63,Without urea,Low moisture,No_Urea+High_moisture
+06: g_Paenibacillus,0,63,Without urea,Low moisture,No_Urea+High_moisture
+06: g_Paenibacillus,0,63,Without urea,Low moisture,No_Urea+High_moisture
+07: g_Pedobacter,0,0,Without urea,High moisture,No_Urea+Low_moisture
+07: g_Pedobacter,0,0,With urea,High moisture,Urea+Low_moisture
+07: g_Pedobacter,0,0,With urea,High moisture,Urea+Low_moisture
+07: g_Pedobacter,0,0,Without urea,Low moisture,No_Urea+High_moisture
+07: g_Pedobacter,0,0,With urea,High moisture,Urea+Low_moisture
+07: g_Pedobacter,0,0,Without urea,High moisture,No_Urea+Low_moisture
+07: g_Pedobacter,0,0,With urea,Low moisture,Urea+High_moisture
+07: g_Pedobacter,0,0,With urea,Low moisture,Urea+High_moisture
+07: g_Pedobacter,0,0,With urea,Low moisture,Urea+High_moisture
+07: g_Pedobacter,0,0,Without urea,High moisture,No_Urea+Low_moisture
+07: g_Pedobacter,0,0,Without urea,Low moisture,No_Urea+High_moisture
+07: g_Pedobacter,0,0,Without urea,Low moisture,No_Urea+High_moisture
+07: g_Pedobacter,58,7,With urea,High moisture,Urea+Low_moisture
+07: g_Pedobacter,58,7,With urea,High moisture,Urea+Low_moisture
+07: g_Pedobacter,20,7,With urea,High moisture,Urea+Low_moisture
+07: g_Pedobacter,3,7,With urea,Low moisture,Urea+High_moisture
+07: g_Pedobacter,2,7,Without urea,High moisture,No_Urea+Low_moisture
+07: g_Pedobacter,0,7,Without urea,Low moisture,No_Urea+High_moisture
+07: g_Pedobacter,0,7,Without urea,Low moisture,No_Urea+High_moisture
+07: g_Pedobacter,0,7,Without urea,High moisture,No_Urea+Low_moisture
+07: g_Pedobacter,0,7,Without urea,Low moisture,No_Urea+High_moisture
+07: g_Pedobacter,0,7,Without urea,High moisture,No_Urea+Low_moisture
+07: g_Pedobacter,83,14,With urea,High moisture,Urea+Low_moisture
+07: g_Pedobacter,72,14,With urea,High moisture,Urea+Low_moisture
+07: g_Pedobacter,58,14,With urea,High moisture,Urea+Low_moisture
+07: g_Pedobacter,5,14,With urea,Low moisture,Urea+High_moisture
+07: g_Pedobacter,2,14,With urea,Low moisture,Urea+High_moisture
+07: g_Pedobacter,0,14,With urea,Low moisture,Urea+High_moisture
+07: g_Pedobacter,62,21,With urea,High moisture,Urea+Low_moisture
+07: g_Pedobacter,50,21,With urea,High moisture,Urea+Low_moisture
+07: g_Pedobacter,0,21,Without urea,Low moisture,No_Urea+High_moisture
+07: g_Pedobacter,0,21,Without urea,High moisture,No_Urea+Low_moisture
+07: g_Pedobacter,0,21,With urea,Low moisture,Urea+High_moisture
+07: g_Pedobacter,0,21,Without urea,High moisture,No_Urea+Low_moisture
+07: g_Pedobacter,0,21,Without urea,High moisture,No_Urea+Low_moisture
+07: g_Pedobacter,148,35,With urea,High moisture,Urea+Low_moisture
+07: g_Pedobacter,101,35,With urea,High moisture,Urea+Low_moisture
+07: g_Pedobacter,100,35,With urea,High moisture,Urea+Low_moisture
+07: g_Pedobacter,0,35,With urea,Low moisture,Urea+High_moisture
+07: g_Pedobacter,0,35,With urea,Low moisture,Urea+High_moisture
+07: g_Pedobacter,0,35,With urea,Low moisture,Urea+High_moisture
+07: g_Pedobacter,76,63,With urea,High moisture,Urea+Low_moisture
+07: g_Pedobacter,33,63,With urea,High moisture,Urea+Low_moisture
+07: g_Pedobacter,16,63,With urea,High moisture,Urea+Low_moisture
+07: g_Pedobacter,0,63,Without urea,Low moisture,No_Urea+High_moisture
+07: g_Pedobacter,0,63,Without urea,High moisture,No_Urea+Low_moisture
+07: g_Pedobacter,0,63,Without urea,Low moisture,No_Urea+High_moisture
+07: g_Pedobacter,0,63,With urea,Low moisture,Urea+High_moisture
+07: g_Pedobacter,0,63,With urea,Low moisture,Urea+High_moisture
+07: g_Pedobacter,0,63,Without urea,High moisture,No_Urea+Low_moisture
+07: g_Pedobacter,0,63,With urea,Low moisture,Urea+High_moisture
+07: g_Pedobacter,0,63,Without urea,Low moisture,No_Urea+High_moisture
+07: g_Pedobacter,0,63,Without urea,High moisture,No_Urea+Low_moisture
+08: f_Methylophilaceae,0,0,Without urea,High moisture,No_Urea+Low_moisture
+08: f_Methylophilaceae,0,0,Without urea,High moisture,No_Urea+Low_moisture
+08: f_Methylophilaceae,0,0,With urea,High moisture,Urea+Low_moisture
+08: f_Methylophilaceae,0,0,With urea,High moisture,Urea+Low_moisture
+08: f_Methylophilaceae,0,0,Without urea,High moisture,No_Urea+Low_moisture
+08: f_Methylophilaceae,0,0,With urea,High moisture,Urea+Low_moisture
+08: f_Methylophilaceae,0,0,Without urea,Low moisture,No_Urea+High_moisture
+08: f_Methylophilaceae,0,0,Without urea,Low moisture,No_Urea+High_moisture
+08: f_Methylophilaceae,0,0,With urea,Low moisture,Urea+High_moisture
+08: f_Methylophilaceae,0,0,Without urea,Low moisture,No_Urea+High_moisture
+08: f_Methylophilaceae,0,0,With urea,Low moisture,Urea+High_moisture
+08: f_Methylophilaceae,0,0,With urea,Low moisture,Urea+High_moisture
+08: f_Methylophilaceae,0,7,Without urea,High moisture,No_Urea+Low_moisture
+08: f_Methylophilaceae,0,7,With urea,Low moisture,Urea+High_moisture
+08: f_Methylophilaceae,0,7,Without urea,Low moisture,No_Urea+High_moisture
+08: f_Methylophilaceae,0,7,Without urea,Low moisture,No_Urea+High_moisture
+08: f_Methylophilaceae,0,7,Without urea,High moisture,No_Urea+Low_moisture
+08: f_Methylophilaceae,0,7,With urea,High moisture,Urea+Low_moisture
+08: f_Methylophilaceae,0,7,With urea,High moisture,Urea+Low_moisture
+08: f_Methylophilaceae,0,7,Without urea,High moisture,No_Urea+Low_moisture
+08: f_Methylophilaceae,0,7,Without urea,Low moisture,No_Urea+High_moisture
+08: f_Methylophilaceae,0,7,With urea,High moisture,Urea+Low_moisture
+08: f_Methylophilaceae,4,14,With urea,High moisture,Urea+Low_moisture
+08: f_Methylophilaceae,4,14,With urea,High moisture,Urea+Low_moisture
+08: f_Methylophilaceae,4,14,With urea,High moisture,Urea+Low_moisture
+08: f_Methylophilaceae,0,14,With urea,Low moisture,Urea+High_moisture
+08: f_Methylophilaceae,0,14,With urea,Low moisture,Urea+High_moisture
+08: f_Methylophilaceae,0,14,With urea,Low moisture,Urea+High_moisture
+08: f_Methylophilaceae,11,21,With urea,High moisture,Urea+Low_moisture
+08: f_Methylophilaceae,7,21,With urea,High moisture,Urea+Low_moisture
+08: f_Methylophilaceae,0,21,With urea,Low moisture,Urea+High_moisture
+08: f_Methylophilaceae,0,21,Without urea,Low moisture,No_Urea+High_moisture
+08: f_Methylophilaceae,0,21,Without urea,High moisture,No_Urea+Low_moisture
+08: f_Methylophilaceae,0,21,Without urea,High moisture,No_Urea+Low_moisture
+08: f_Methylophilaceae,0,21,Without urea,High moisture,No_Urea+Low_moisture
+08: f_Methylophilaceae,89,35,With urea,High moisture,Urea+Low_moisture
+08: f_Methylophilaceae,40,35,With urea,High moisture,Urea+Low_moisture
+08: f_Methylophilaceae,20,35,With urea,High moisture,Urea+Low_moisture
+08: f_Methylophilaceae,2,35,With urea,Low moisture,Urea+High_moisture
+08: f_Methylophilaceae,1,35,With urea,Low moisture,Urea+High_moisture
+08: f_Methylophilaceae,0,35,With urea,Low moisture,Urea+High_moisture
+08: f_Methylophilaceae,653,63,With urea,High moisture,Urea+Low_moisture
+08: f_Methylophilaceae,290,63,With urea,High moisture,Urea+Low_moisture
+08: f_Methylophilaceae,23,63,With urea,High moisture,Urea+Low_moisture
+08: f_Methylophilaceae,2,63,With urea,Low moisture,Urea+High_moisture
+08: f_Methylophilaceae,0,63,Without urea,High moisture,No_Urea+Low_moisture
+08: f_Methylophilaceae,0,63,Without urea,Low moisture,No_Urea+High_moisture
+08: f_Methylophilaceae,0,63,Without urea,Low moisture,No_Urea+High_moisture
+08: f_Methylophilaceae,0,63,Without urea,Low moisture,No_Urea+High_moisture
+08: f_Methylophilaceae,0,63,With urea,Low moisture,Urea+High_moisture
+08: f_Methylophilaceae,0,63,Without urea,High moisture,No_Urea+Low_moisture
+08: f_Methylophilaceae,0,63,Without urea,High moisture,No_Urea+Low_moisture
+08: f_Methylophilaceae,0,63,With urea,Low moisture,Urea+High_moisture
+09: g_Sphingobacteria ,1,0,With urea,Low moisture,Urea+High_moisture
+09: g_Sphingobacteria ,1,0,With urea,Low moisture,Urea+High_moisture
+09: g_Sphingobacteria ,0,0,With urea,High moisture,Urea+Low_moisture
+09: g_Sphingobacteria ,0,0,With urea,High moisture,Urea+Low_moisture
+09: g_Sphingobacteria ,0,0,Without urea,Low moisture,No_Urea+High_moisture
+09: g_Sphingobacteria ,0,0,Without urea,High moisture,No_Urea+Low_moisture
+09: g_Sphingobacteria ,0,0,Without urea,Low moisture,No_Urea+High_moisture
+09: g_Sphingobacteria ,0,0,With urea,Low moisture,Urea+High_moisture
+09: g_Sphingobacteria ,0,0,Without urea,Low moisture,No_Urea+High_moisture
+09: g_Sphingobacteria ,0,0,With urea,High moisture,Urea+Low_moisture
+09: g_Sphingobacteria ,0,0,Without urea,High moisture,No_Urea+Low_moisture
+09: g_Sphingobacteria ,0,0,Without urea,High moisture,No_Urea+Low_moisture
+09: g_Sphingobacteria ,497,7,With urea,High moisture,Urea+Low_moisture
+09: g_Sphingobacteria ,467,7,With urea,High moisture,Urea+Low_moisture
+09: g_Sphingobacteria ,379,7,With urea,High moisture,Urea+Low_moisture
+09: g_Sphingobacteria ,212,7,With urea,Low moisture,Urea+High_moisture
+09: g_Sphingobacteria ,1,7,Without urea,High moisture,No_Urea+Low_moisture
+09: g_Sphingobacteria ,1,7,Without urea,High moisture,No_Urea+Low_moisture
+09: g_Sphingobacteria ,1,7,Without urea,High moisture,No_Urea+Low_moisture
+09: g_Sphingobacteria ,0,7,Without urea,Low moisture,No_Urea+High_moisture
+09: g_Sphingobacteria ,0,7,Without urea,Low moisture,No_Urea+High_moisture
+09: g_Sphingobacteria ,0,7,Without urea,Low moisture,No_Urea+High_moisture
+09: g_Sphingobacteria ,638,14,With urea,High moisture,Urea+Low_moisture
+09: g_Sphingobacteria ,489,14,With urea,High moisture,Urea+Low_moisture
+09: g_Sphingobacteria ,391,14,With urea,High moisture,Urea+Low_moisture
+09: g_Sphingobacteria ,324,14,With urea,Low moisture,Urea+High_moisture
+09: g_Sphingobacteria ,272,14,With urea,Low moisture,Urea+High_moisture
+09: g_Sphingobacteria ,188,14,With urea,Low moisture,Urea+High_moisture
+09: g_Sphingobacteria ,488,21,With urea,High moisture,Urea+Low_moisture
+09: g_Sphingobacteria ,223,21,With urea,High moisture,Urea+Low_moisture
+09: g_Sphingobacteria ,108,21,With urea,Low moisture,Urea+High_moisture
+09: g_Sphingobacteria ,1,21,Without urea,High moisture,No_Urea+Low_moisture
+09: g_Sphingobacteria ,0,21,Without urea,Low moisture,No_Urea+High_moisture
+09: g_Sphingobacteria ,0,21,Without urea,High moisture,No_Urea+Low_moisture
+09: g_Sphingobacteria ,0,21,Without urea,High moisture,No_Urea+Low_moisture
+09: g_Sphingobacteria ,492,35,With urea,High moisture,Urea+Low_moisture
+09: g_Sphingobacteria ,482,35,With urea,High moisture,Urea+Low_moisture
+09: g_Sphingobacteria ,451,35,With urea,High moisture,Urea+Low_moisture
+09: g_Sphingobacteria ,51,35,With urea,Low moisture,Urea+High_moisture
+09: g_Sphingobacteria ,32,35,With urea,Low moisture,Urea+High_moisture
+09: g_Sphingobacteria ,28,35,With urea,Low moisture,Urea+High_moisture
+09: g_Sphingobacteria ,262,63,With urea,High moisture,Urea+Low_moisture
+09: g_Sphingobacteria ,163,63,With urea,High moisture,Urea+Low_moisture
+09: g_Sphingobacteria ,133,63,With urea,High moisture,Urea+Low_moisture
+09: g_Sphingobacteria ,38,63,With urea,Low moisture,Urea+High_moisture
+09: g_Sphingobacteria ,36,63,With urea,Low moisture,Urea+High_moisture
+09: g_Sphingobacteria ,10,63,With urea,Low moisture,Urea+High_moisture
+09: g_Sphingobacteria ,1,63,Without urea,High moisture,No_Urea+Low_moisture
+09: g_Sphingobacteria ,0,63,Without urea,Low moisture,No_Urea+High_moisture
+09: g_Sphingobacteria ,0,63,Without urea,Low moisture,No_Urea+High_moisture
+09: g_Sphingobacteria ,0,63,Without urea,High moisture,No_Urea+Low_moisture
+09: g_Sphingobacteria ,0,63,Without urea,Low moisture,No_Urea+High_moisture
+09: g_Sphingobacteria ,0,63,Without urea,High moisture,No_Urea+Low_moisture
+10: g_Aquamicrobium,1,0,With urea,Low moisture,Urea+High_moisture
+10: g_Aquamicrobium,1,0,With urea,High moisture,Urea+Low_moisture
+10: g_Aquamicrobium,0,0,Without urea,High moisture,No_Urea+Low_moisture
+10: g_Aquamicrobium,0,0,Without urea,High moisture,No_Urea+Low_moisture
+10: g_Aquamicrobium,0,0,Without urea,Low moisture,No_Urea+High_moisture
+10: g_Aquamicrobium,0,0,With urea,Low moisture,Urea+High_moisture
+10: g_Aquamicrobium,0,0,Without urea,High moisture,No_Urea+Low_moisture
+10: g_Aquamicrobium,0,0,With urea,High moisture,Urea+Low_moisture
+10: g_Aquamicrobium,0,0,With urea,High moisture,Urea+Low_moisture
+10: g_Aquamicrobium,0,0,With urea,Low moisture,Urea+High_moisture
+10: g_Aquamicrobium,0,0,Without urea,Low moisture,No_Urea+High_moisture
+10: g_Aquamicrobium,0,0,Without urea,Low moisture,No_Urea+High_moisture
+10: g_Aquamicrobium,30,7,With urea,Low moisture,Urea+High_moisture
+10: g_Aquamicrobium,26,7,With urea,High moisture,Urea+Low_moisture
+10: g_Aquamicrobium,22,7,With urea,High moisture,Urea+Low_moisture
+10: g_Aquamicrobium,15,7,With urea,High moisture,Urea+Low_moisture
+10: g_Aquamicrobium,0,7,Without urea,High moisture,No_Urea+Low_moisture
+10: g_Aquamicrobium,0,7,Without urea,High moisture,No_Urea+Low_moisture
+10: g_Aquamicrobium,0,7,Without urea,Low moisture,No_Urea+High_moisture
+10: g_Aquamicrobium,0,7,Without urea,Low moisture,No_Urea+High_moisture
+10: g_Aquamicrobium,0,7,Without urea,Low moisture,No_Urea+High_moisture
+10: g_Aquamicrobium,0,7,Without urea,High moisture,No_Urea+Low_moisture
+10: g_Aquamicrobium,185,14,With urea,Low moisture,Urea+High_moisture
+10: g_Aquamicrobium,137,14,With urea,Low moisture,Urea+High_moisture
+10: g_Aquamicrobium,115,14,With urea,Low moisture,Urea+High_moisture
+10: g_Aquamicrobium,22,14,With urea,High moisture,Urea+Low_moisture
+10: g_Aquamicrobium,18,14,With urea,High moisture,Urea+Low_moisture
+10: g_Aquamicrobium,13,14,With urea,High moisture,Urea+Low_moisture
+10: g_Aquamicrobium,90,21,With urea,Low moisture,Urea+High_moisture
+10: g_Aquamicrobium,30,21,With urea,High moisture,Urea+Low_moisture
+10: g_Aquamicrobium,12,21,With urea,High moisture,Urea+Low_moisture
+10: g_Aquamicrobium,0,21,Without urea,Low moisture,No_Urea+High_moisture
+10: g_Aquamicrobium,0,21,Without urea,High moisture,No_Urea+Low_moisture
+10: g_Aquamicrobium,0,21,Without urea,High moisture,No_Urea+Low_moisture
+10: g_Aquamicrobium,0,21,Without urea,High moisture,No_Urea+Low_moisture
+10: g_Aquamicrobium,96,35,With urea,Low moisture,Urea+High_moisture
+10: g_Aquamicrobium,75,35,With urea,Low moisture,Urea+High_moisture
+10: g_Aquamicrobium,54,35,With urea,Low moisture,Urea+High_moisture
+10: g_Aquamicrobium,37,35,With urea,High moisture,Urea+Low_moisture
+10: g_Aquamicrobium,23,35,With urea,High moisture,Urea+Low_moisture
+10: g_Aquamicrobium,20,35,With urea,High moisture,Urea+Low_moisture
+10: g_Aquamicrobium,72,63,With urea,Low moisture,Urea+High_moisture
+10: g_Aquamicrobium,69,63,With urea,Low moisture,Urea+High_moisture
+10: g_Aquamicrobium,61,63,With urea,Low moisture,Urea+High_moisture
+10: g_Aquamicrobium,24,63,With urea,High moisture,Urea+Low_moisture
+10: g_Aquamicrobium,9,63,With urea,High moisture,Urea+Low_moisture
+10: g_Aquamicrobium,4,63,With urea,High moisture,Urea+Low_moisture
+10: g_Aquamicrobium,2,63,Without urea,High moisture,No_Urea+Low_moisture
+10: g_Aquamicrobium,0,63,Without urea,Low moisture,No_Urea+High_moisture
+10: g_Aquamicrobium,0,63,Without urea,Low moisture,No_Urea+High_moisture
+10: g_Aquamicrobium,0,63,Without urea,High moisture,No_Urea+Low_moisture
+10: g_Aquamicrobium,0,63,Without urea,Low moisture,No_Urea+High_moisture
+10: g_Aquamicrobium,0,63,Without urea,High moisture,No_Urea+Low_moisture
+11: g_Brevundimonas ,1,0,With urea,High moisture,Urea+Low_moisture
+11: g_Brevundimonas ,1,0,With urea,Low moisture,Urea+High_moisture
+11: g_Brevundimonas ,0,0,Without urea,High moisture,No_Urea+Low_moisture
+11: g_Brevundimonas ,0,0,Without urea,High moisture,No_Urea+Low_moisture
+11: g_Brevundimonas ,0,0,With urea,High moisture,Urea+Low_moisture
+11: g_Brevundimonas ,0,0,With urea,High moisture,Urea+Low_moisture
+11: g_Brevundimonas ,0,0,Without urea,Low moisture,No_Urea+High_moisture
+11: g_Brevundimonas ,0,0,Without urea,Low moisture,No_Urea+High_moisture
+11: g_Brevundimonas ,0,0,Without urea,High moisture,No_Urea+Low_moisture
+11: g_Brevundimonas ,0,0,With urea,Low moisture,Urea+High_moisture
+11: g_Brevundimonas ,0,0,Without urea,Low moisture,No_Urea+High_moisture
+11: g_Brevundimonas ,0,0,With urea,Low moisture,Urea+High_moisture
+11: g_Brevundimonas ,94,7,With urea,High moisture,Urea+Low_moisture
+11: g_Brevundimonas ,92,7,With urea,High moisture,Urea+Low_moisture
+11: g_Brevundimonas ,64,7,With urea,High moisture,Urea+Low_moisture
+11: g_Brevundimonas ,5,7,With urea,Low moisture,Urea+High_moisture
+11: g_Brevundimonas ,1,7,Without urea,High moisture,No_Urea+Low_moisture
+11: g_Brevundimonas ,0,7,Without urea,Low moisture,No_Urea+High_moisture
+11: g_Brevundimonas ,0,7,Without urea,Low moisture,No_Urea+High_moisture
+11: g_Brevundimonas ,0,7,Without urea,Low moisture,No_Urea+High_moisture
+11: g_Brevundimonas ,0,7,Without urea,High moisture,No_Urea+Low_moisture
+11: g_Brevundimonas ,0,7,Without urea,High moisture,No_Urea+Low_moisture
+11: g_Brevundimonas ,272,14,With urea,High moisture,Urea+Low_moisture
+11: g_Brevundimonas ,164,14,With urea,High moisture,Urea+Low_moisture
+11: g_Brevundimonas ,146,14,With urea,High moisture,Urea+Low_moisture
+11: g_Brevundimonas ,22,14,With urea,Low moisture,Urea+High_moisture
+11: g_Brevundimonas ,16,14,With urea,Low moisture,Urea+High_moisture
+11: g_Brevundimonas ,10,14,With urea,Low moisture,Urea+High_moisture
+11: g_Brevundimonas ,176,21,With urea,High moisture,Urea+Low_moisture
+11: g_Brevundimonas ,126,21,With urea,High moisture,Urea+Low_moisture
+11: g_Brevundimonas ,3,21,With urea,Low moisture,Urea+High_moisture
+11: g_Brevundimonas ,0,21,Without urea,High moisture,No_Urea+Low_moisture
+11: g_Brevundimonas ,0,21,Without urea,Low moisture,No_Urea+High_moisture
+11: g_Brevundimonas ,0,21,Without urea,High moisture,No_Urea+Low_moisture
+11: g_Brevundimonas ,0,21,Without urea,High moisture,No_Urea+Low_moisture
+11: g_Brevundimonas ,245,35,With urea,High moisture,Urea+Low_moisture
+11: g_Brevundimonas ,241,35,With urea,High moisture,Urea+Low_moisture
+11: g_Brevundimonas ,106,35,With urea,High moisture,Urea+Low_moisture
+11: g_Brevundimonas ,9,35,With urea,Low moisture,Urea+High_moisture
+11: g_Brevundimonas ,6,35,With urea,Low moisture,Urea+High_moisture
+11: g_Brevundimonas ,2,35,With urea,Low moisture,Urea+High_moisture
+11: g_Brevundimonas ,291,63,With urea,High moisture,Urea+Low_moisture
+11: g_Brevundimonas ,35,63,With urea,High moisture,Urea+Low_moisture
+11: g_Brevundimonas ,20,63,With urea,Low moisture,Urea+High_moisture
+11: g_Brevundimonas ,20,63,With urea,High moisture,Urea+Low_moisture
+11: g_Brevundimonas ,8,63,With urea,Low moisture,Urea+High_moisture
+11: g_Brevundimonas ,7,63,With urea,Low moisture,Urea+High_moisture
+11: g_Brevundimonas ,0,63,Without urea,High moisture,No_Urea+Low_moisture
+11: g_Brevundimonas ,0,63,Without urea,High moisture,No_Urea+Low_moisture
+11: g_Brevundimonas ,0,63,Without urea,Low moisture,No_Urea+High_moisture
+11: g_Brevundimonas ,0,63,Without urea,Low moisture,No_Urea+High_moisture
+11: g_Brevundimonas ,0,63,Without urea,Low moisture,No_Urea+High_moisture
+11: g_Brevundimonas ,0,63,Without urea,High moisture,No_Urea+Low_moisture
+12: g_Sphingomonas,1,0,Without urea,High moisture,No_Urea+Low_moisture
+12: g_Sphingomonas,1,0,With urea,Low moisture,Urea+High_moisture
+12: g_Sphingomonas,0,0,Without urea,High moisture,No_Urea+Low_moisture
+12: g_Sphingomonas,0,0,With urea,High moisture,Urea+Low_moisture
+12: g_Sphingomonas,0,0,Without urea,Low moisture,No_Urea+High_moisture
+12: g_Sphingomonas,0,0,Without urea,High moisture,No_Urea+Low_moisture
+12: g_Sphingomonas,0,0,With urea,High moisture,Urea+Low_moisture
+12: g_Sphingomonas,0,0,With urea,High moisture,Urea+Low_moisture
+12: g_Sphingomonas,0,0,With urea,Low moisture,Urea+High_moisture
+12: g_Sphingomonas,0,0,With urea,Low moisture,Urea+High_moisture
+12: g_Sphingomonas,0,0,Without urea,Low moisture,No_Urea+High_moisture
+12: g_Sphingomonas,0,0,Without urea,Low moisture,No_Urea+High_moisture
+12: g_Sphingomonas,35,7,With urea,High moisture,Urea+Low_moisture
+12: g_Sphingomonas,20,7,With urea,High moisture,Urea+Low_moisture
+12: g_Sphingomonas,19,7,With urea,High moisture,Urea+Low_moisture
+12: g_Sphingomonas,12,7,With urea,Low moisture,Urea+High_moisture
+12: g_Sphingomonas,0,7,Without urea,High moisture,No_Urea+Low_moisture
+12: g_Sphingomonas,0,7,Without urea,Low moisture,No_Urea+High_moisture
+12: g_Sphingomonas,0,7,Without urea,High moisture,No_Urea+Low_moisture
+12: g_Sphingomonas,0,7,Without urea,High moisture,No_Urea+Low_moisture
+12: g_Sphingomonas,0,7,Without urea,Low moisture,No_Urea+High_moisture
+12: g_Sphingomonas,0,7,Without urea,Low moisture,No_Urea+High_moisture
+12: g_Sphingomonas,112,14,With urea,Low moisture,Urea+High_moisture
+12: g_Sphingomonas,104,14,With urea,Low moisture,Urea+High_moisture
+12: g_Sphingomonas,93,14,With urea,High moisture,Urea+Low_moisture
+12: g_Sphingomonas,76,14,With urea,Low moisture,Urea+High_moisture
+12: g_Sphingomonas,76,14,With urea,High moisture,Urea+Low_moisture
+12: g_Sphingomonas,36,14,With urea,High moisture,Urea+Low_moisture
+12: g_Sphingomonas,132,21,With urea,High moisture,Urea+Low_moisture
+12: g_Sphingomonas,106,21,With urea,High moisture,Urea+Low_moisture
+12: g_Sphingomonas,71,21,With urea,Low moisture,Urea+High_moisture
+12: g_Sphingomonas,1,21,Without urea,High moisture,No_Urea+Low_moisture
+12: g_Sphingomonas,1,21,Without urea,High moisture,No_Urea+Low_moisture
+12: g_Sphingomonas,1,21,Without urea,High moisture,No_Urea+Low_moisture
+12: g_Sphingomonas,0,21,Without urea,Low moisture,No_Urea+High_moisture
+12: g_Sphingomonas,356,35,With urea,High moisture,Urea+Low_moisture
+12: g_Sphingomonas,338,35,With urea,High moisture,Urea+Low_moisture
+12: g_Sphingomonas,313,35,With urea,High moisture,Urea+Low_moisture
+12: g_Sphingomonas,205,35,With urea,Low moisture,Urea+High_moisture
+12: g_Sphingomonas,153,35,With urea,Low moisture,Urea+High_moisture
+12: g_Sphingomonas,103,35,With urea,Low moisture,Urea+High_moisture
+12: g_Sphingomonas,488,63,With urea,Low moisture,Urea+High_moisture
+12: g_Sphingomonas,405,63,With urea,High moisture,Urea+Low_moisture
+12: g_Sphingomonas,308,63,With urea,Low moisture,Urea+High_moisture
+12: g_Sphingomonas,208,63,With urea,Low moisture,Urea+High_moisture
+12: g_Sphingomonas,139,63,With urea,High moisture,Urea+Low_moisture
+12: g_Sphingomonas,90,63,With urea,High moisture,Urea+Low_moisture
+12: g_Sphingomonas,0,63,Without urea,High moisture,No_Urea+Low_moisture
+12: g_Sphingomonas,0,63,Without urea,Low moisture,No_Urea+High_moisture
+12: g_Sphingomonas,0,63,Without urea,High moisture,No_Urea+Low_moisture
+12: g_Sphingomonas,0,63,Without urea,Low moisture,No_Urea+High_moisture
+12: g_Sphingomonas,0,63,Without urea,Low moisture,No_Urea+High_moisture
+12: g_Sphingomonas,0,63,Without urea,High moisture,No_Urea+Low_moisture
+13: g_Pontibacter,0,0,Without urea,High moisture,No_Urea+Low_moisture
+13: g_Pontibacter,0,0,Without urea,Low moisture,No_Urea+High_moisture
+13: g_Pontibacter,0,0,With urea,High moisture,Urea+Low_moisture
+13: g_Pontibacter,0,0,Without urea,High moisture,No_Urea+Low_moisture
+13: g_Pontibacter,0,0,Without urea,High moisture,No_Urea+Low_moisture
+13: g_Pontibacter,0,0,With urea,Low moisture,Urea+High_moisture
+13: g_Pontibacter,0,0,With urea,Low moisture,Urea+High_moisture
+13: g_Pontibacter,0,0,With urea,Low moisture,Urea+High_moisture
+13: g_Pontibacter,0,0,With urea,High moisture,Urea+Low_moisture
+13: g_Pontibacter,0,0,Without urea,Low moisture,No_Urea+High_moisture
+13: g_Pontibacter,0,0,With urea,High moisture,Urea+Low_moisture
+13: g_Pontibacter,0,0,Without urea,Low moisture,No_Urea+High_moisture
+13: g_Pontibacter,235,7,With urea,Low moisture,Urea+High_moisture
+13: g_Pontibacter,63,7,With urea,High moisture,Urea+Low_moisture
+13: g_Pontibacter,52,7,With urea,High moisture,Urea+Low_moisture
+13: g_Pontibacter,49,7,With urea,High moisture,Urea+Low_moisture
+13: g_Pontibacter,0,7,Without urea,Low moisture,No_Urea+High_moisture
+13: g_Pontibacter,0,7,Without urea,High moisture,No_Urea+Low_moisture
+13: g_Pontibacter,0,7,Without urea,Low moisture,No_Urea+High_moisture
+13: g_Pontibacter,0,7,Without urea,High moisture,No_Urea+Low_moisture
+13: g_Pontibacter,0,7,Without urea,Low moisture,No_Urea+High_moisture
+13: g_Pontibacter,0,7,Without urea,High moisture,No_Urea+Low_moisture
+13: g_Pontibacter,85,14,With urea,Low moisture,Urea+High_moisture
+13: g_Pontibacter,78,14,With urea,Low moisture,Urea+High_moisture
+13: g_Pontibacter,75,14,With urea,Low moisture,Urea+High_moisture
+13: g_Pontibacter,40,14,With urea,High moisture,Urea+Low_moisture
+13: g_Pontibacter,30,14,With urea,High moisture,Urea+Low_moisture
+13: g_Pontibacter,22,14,With urea,High moisture,Urea+Low_moisture
+13: g_Pontibacter,53,21,With urea,Low moisture,Urea+High_moisture
+13: g_Pontibacter,42,21,With urea,High moisture,Urea+Low_moisture
+13: g_Pontibacter,20,21,With urea,High moisture,Urea+Low_moisture
+13: g_Pontibacter,0,21,Without urea,Low moisture,No_Urea+High_moisture
+13: g_Pontibacter,0,21,Without urea,High moisture,No_Urea+Low_moisture
+13: g_Pontibacter,0,21,Without urea,High moisture,No_Urea+Low_moisture
+13: g_Pontibacter,0,21,Without urea,High moisture,No_Urea+Low_moisture
+13: g_Pontibacter,65,35,With urea,Low moisture,Urea+High_moisture
+13: g_Pontibacter,55,35,With urea,Low moisture,Urea+High_moisture
+13: g_Pontibacter,25,35,With urea,Low moisture,Urea+High_moisture
+13: g_Pontibacter,8,35,With urea,High moisture,Urea+Low_moisture
+13: g_Pontibacter,7,35,With urea,High moisture,Urea+Low_moisture
+13: g_Pontibacter,3,35,With urea,High moisture,Urea+Low_moisture
+13: g_Pontibacter,36,63,With urea,Low moisture,Urea+High_moisture
+13: g_Pontibacter,27,63,With urea,Low moisture,Urea+High_moisture
+13: g_Pontibacter,21,63,With urea,Low moisture,Urea+High_moisture
+13: g_Pontibacter,3,63,With urea,High moisture,Urea+Low_moisture
+13: g_Pontibacter,1,63,With urea,High moisture,Urea+Low_moisture
+13: g_Pontibacter,1,63,With urea,High moisture,Urea+Low_moisture
+13: g_Pontibacter,1,63,Without urea,Low moisture,No_Urea+High_moisture
+13: g_Pontibacter,0,63,Without urea,High moisture,No_Urea+Low_moisture
+13: g_Pontibacter,0,63,Without urea,High moisture,No_Urea+Low_moisture
+13: g_Pontibacter,0,63,Without urea,Low moisture,No_Urea+High_moisture
+13: g_Pontibacter,0,63,Without urea,High moisture,No_Urea+Low_moisture
+13: g_Pontibacter,0,63,Without urea,Low moisture,No_Urea+High_moisture
+14: g_Mesorhizobium ,13,0,With urea,High moisture,Urea+Low_moisture
+14: g_Mesorhizobium ,12,0,Without urea,Low moisture,No_Urea+High_moisture
+14: g_Mesorhizobium ,11,0,With urea,High moisture,Urea+Low_moisture
+14: g_Mesorhizobium ,11,0,Without urea,Low moisture,No_Urea+High_moisture
+14: g_Mesorhizobium ,11,0,Without urea,High moisture,No_Urea+Low_moisture
+14: g_Mesorhizobium ,10,0,Without urea,High moisture,No_Urea+Low_moisture
+14: g_Mesorhizobium ,10,0,Without urea,Low moisture,No_Urea+High_moisture
+14: g_Mesorhizobium ,9,0,Without urea,High moisture,No_Urea+Low_moisture
+14: g_Mesorhizobium ,8,0,With urea,Low moisture,Urea+High_moisture
+14: g_Mesorhizobium ,8,0,With urea,Low moisture,Urea+High_moisture
+14: g_Mesorhizobium ,4,0,With urea,High moisture,Urea+Low_moisture
+14: g_Mesorhizobium ,3,0,With urea,Low moisture,Urea+High_moisture
+14: g_Mesorhizobium ,38,7,With urea,High moisture,Urea+Low_moisture
+14: g_Mesorhizobium ,36,7,With urea,High moisture,Urea+Low_moisture
+14: g_Mesorhizobium ,36,7,With urea,Low moisture,Urea+High_moisture
+14: g_Mesorhizobium ,31,7,With urea,High moisture,Urea+Low_moisture
+14: g_Mesorhizobium ,11,7,Without urea,High moisture,No_Urea+Low_moisture
+14: g_Mesorhizobium ,10,7,Without urea,Low moisture,No_Urea+High_moisture
+14: g_Mesorhizobium ,9,7,Without urea,High moisture,No_Urea+Low_moisture
+14: g_Mesorhizobium ,9,7,Without urea,High moisture,No_Urea+Low_moisture
+14: g_Mesorhizobium ,7,7,Without urea,Low moisture,No_Urea+High_moisture
+14: g_Mesorhizobium ,4,7,Without urea,Low moisture,No_Urea+High_moisture
+14: g_Mesorhizobium ,205,14,With urea,Low moisture,Urea+High_moisture
+14: g_Mesorhizobium ,126,14,With urea,Low moisture,Urea+High_moisture
+14: g_Mesorhizobium ,118,14,With urea,Low moisture,Urea+High_moisture
+14: g_Mesorhizobium ,29,14,With urea,High moisture,Urea+Low_moisture
+14: g_Mesorhizobium ,22,14,With urea,High moisture,Urea+Low_moisture
+14: g_Mesorhizobium ,22,14,With urea,High moisture,Urea+Low_moisture
+14: g_Mesorhizobium ,104,21,With urea,Low moisture,Urea+High_moisture
+14: g_Mesorhizobium ,24,21,With urea,High moisture,Urea+Low_moisture
+14: g_Mesorhizobium ,20,21,With urea,High moisture,Urea+Low_moisture
+14: g_Mesorhizobium ,12,21,Without urea,High moisture,No_Urea+Low_moisture
+14: g_Mesorhizobium ,9,21,Without urea,High moisture,No_Urea+Low_moisture
+14: g_Mesorhizobium ,7,21,Without urea,Low moisture,No_Urea+High_moisture
+14: g_Mesorhizobium ,2,21,Without urea,High moisture,No_Urea+Low_moisture
+14: g_Mesorhizobium ,102,35,With urea,Low moisture,Urea+High_moisture
+14: g_Mesorhizobium ,82,35,With urea,Low moisture,Urea+High_moisture
+14: g_Mesorhizobium ,62,35,With urea,Low moisture,Urea+High_moisture
+14: g_Mesorhizobium ,21,35,With urea,High moisture,Urea+Low_moisture
+14: g_Mesorhizobium ,21,35,With urea,High moisture,Urea+Low_moisture
+14: g_Mesorhizobium ,7,35,With urea,High moisture,Urea+Low_moisture
+14: g_Mesorhizobium ,112,63,With urea,Low moisture,Urea+High_moisture
+14: g_Mesorhizobium ,111,63,With urea,Low moisture,Urea+High_moisture
+14: g_Mesorhizobium ,83,63,With urea,Low moisture,Urea+High_moisture
+14: g_Mesorhizobium ,12,63,With urea,High moisture,Urea+Low_moisture
+14: g_Mesorhizobium ,7,63,With urea,High moisture,Urea+Low_moisture
+14: g_Mesorhizobium ,6,63,With urea,High moisture,Urea+Low_moisture
+14: g_Mesorhizobium ,5,63,Without urea,Low moisture,No_Urea+High_moisture
+14: g_Mesorhizobium ,5,63,Without urea,High moisture,No_Urea+Low_moisture
+14: g_Mesorhizobium ,4,63,Without urea,High moisture,No_Urea+Low_moisture
+14: g_Mesorhizobium ,4,63,Without urea,Low moisture,No_Urea+High_moisture
+14: g_Mesorhizobium ,4,63,Without urea,Low moisture,No_Urea+High_moisture
+14: g_Mesorhizobium ,3,63,Without urea,High moisture,No_Urea+Low_moisture
+15: g_Sphingobacteria,0,0,With urea,High moisture,Urea+Low_moisture
+15: g_Sphingobacteria,0,0,Without urea,High moisture,No_Urea+Low_moisture
+15: g_Sphingobacteria,0,0,Without urea,Low moisture,No_Urea+High_moisture
+15: g_Sphingobacteria,0,0,Without urea,Low moisture,No_Urea+High_moisture
+15: g_Sphingobacteria,0,0,Without urea,Low moisture,No_Urea+High_moisture
+15: g_Sphingobacteria,0,0,With urea,Low moisture,Urea+High_moisture
+15: g_Sphingobacteria,0,0,Without urea,High moisture,No_Urea+Low_moisture
+15: g_Sphingobacteria,0,0,Without urea,High moisture,No_Urea+Low_moisture
+15: g_Sphingobacteria,0,0,With urea,Low moisture,Urea+High_moisture
+15: g_Sphingobacteria,0,0,With urea,High moisture,Urea+Low_moisture
+15: g_Sphingobacteria,0,0,With urea,High moisture,Urea+Low_moisture
+15: g_Sphingobacteria,0,0,With urea,Low moisture,Urea+High_moisture
+15: g_Sphingobacteria,4,7,With urea,High moisture,Urea+Low_moisture
+15: g_Sphingobacteria,3,7,With urea,High moisture,Urea+Low_moisture
+15: g_Sphingobacteria,2,7,With urea,High moisture,Urea+Low_moisture
+15: g_Sphingobacteria,0,7,With urea,Low moisture,Urea+High_moisture
+15: g_Sphingobacteria,0,7,Without urea,High moisture,No_Urea+Low_moisture
+15: g_Sphingobacteria,0,7,Without urea,High moisture,No_Urea+Low_moisture
+15: g_Sphingobacteria,0,7,Without urea,High moisture,No_Urea+Low_moisture
+15: g_Sphingobacteria,0,7,Without urea,Low moisture,No_Urea+High_moisture
+15: g_Sphingobacteria,0,7,Without urea,Low moisture,No_Urea+High_moisture
+15: g_Sphingobacteria,0,7,Without urea,Low moisture,No_Urea+High_moisture
+15: g_Sphingobacteria,52,14,With urea,High moisture,Urea+Low_moisture
+15: g_Sphingobacteria,43,14,With urea,High moisture,Urea+Low_moisture
+15: g_Sphingobacteria,24,14,With urea,High moisture,Urea+Low_moisture
+15: g_Sphingobacteria,0,14,With urea,Low moisture,Urea+High_moisture
+15: g_Sphingobacteria,0,14,With urea,Low moisture,Urea+High_moisture
+15: g_Sphingobacteria,0,14,With urea,Low moisture,Urea+High_moisture
+15: g_Sphingobacteria,93,21,With urea,High moisture,Urea+Low_moisture
+15: g_Sphingobacteria,31,21,With urea,High moisture,Urea+Low_moisture
+15: g_Sphingobacteria,0,21,Without urea,High moisture,No_Urea+Low_moisture
+15: g_Sphingobacteria,0,21,Without urea,High moisture,No_Urea+Low_moisture
+15: g_Sphingobacteria,0,21,Without urea,Low moisture,No_Urea+High_moisture
+15: g_Sphingobacteria,0,21,Without urea,High moisture,No_Urea+Low_moisture
+15: g_Sphingobacteria,0,21,With urea,Low moisture,Urea+High_moisture
+15: g_Sphingobacteria,152,35,With urea,High moisture,Urea+Low_moisture
+15: g_Sphingobacteria,149,35,With urea,High moisture,Urea+Low_moisture
+15: g_Sphingobacteria,71,35,With urea,High moisture,Urea+Low_moisture
+15: g_Sphingobacteria,1,35,With urea,Low moisture,Urea+High_moisture
+15: g_Sphingobacteria,1,35,With urea,Low moisture,Urea+High_moisture
+15: g_Sphingobacteria,0,35,With urea,Low moisture,Urea+High_moisture
+15: g_Sphingobacteria,80,63,With urea,High moisture,Urea+Low_moisture
+15: g_Sphingobacteria,66,63,With urea,High moisture,Urea+Low_moisture
+15: g_Sphingobacteria,54,63,With urea,High moisture,Urea+Low_moisture
+15: g_Sphingobacteria,2,63,With urea,Low moisture,Urea+High_moisture
+15: g_Sphingobacteria,0,63,Without urea,High moisture,No_Urea+Low_moisture
+15: g_Sphingobacteria,0,63,Without urea,Low moisture,No_Urea+High_moisture
+15: g_Sphingobacteria,0,63,Without urea,Low moisture,No_Urea+High_moisture
+15: g_Sphingobacteria,0,63,Without urea,Low moisture,No_Urea+High_moisture
+15: g_Sphingobacteria,0,63,Without urea,High moisture,No_Urea+Low_moisture
+15: g_Sphingobacteria,0,63,Without urea,High moisture,No_Urea+Low_moisture
+15: g_Sphingobacteria,0,63,With urea,Low moisture,Urea+High_moisture
+15: g_Sphingobacteria,0,63,With urea,Low moisture,Urea+High_moisture
+16: g_Frigoribacterium,1,0,With urea,High moisture,Urea+Low_moisture
+16: g_Frigoribacterium,0,0,Without urea,Low moisture,No_Urea+High_moisture
+16: g_Frigoribacterium,0,0,Without urea,Low moisture,No_Urea+High_moisture
+16: g_Frigoribacterium,0,0,Without urea,High moisture,No_Urea+Low_moisture
+16: g_Frigoribacterium,0,0,With urea,Low moisture,Urea+High_moisture
+16: g_Frigoribacterium,0,0,Without urea,High moisture,No_Urea+Low_moisture
+16: g_Frigoribacterium,0,0,With urea,High moisture,Urea+Low_moisture
+16: g_Frigoribacterium,0,0,With urea,High moisture,Urea+Low_moisture
+16: g_Frigoribacterium,0,0,Without urea,Low moisture,No_Urea+High_moisture
+16: g_Frigoribacterium,0,0,With urea,Low moisture,Urea+High_moisture
+16: g_Frigoribacterium,0,0,With urea,Low moisture,Urea+High_moisture
+16: g_Frigoribacterium,0,0,Without urea,High moisture,No_Urea+Low_moisture
+16: g_Frigoribacterium,0,7,With urea,Low moisture,Urea+High_moisture
+16: g_Frigoribacterium,0,7,With urea,High moisture,Urea+Low_moisture
+16: g_Frigoribacterium,0,7,Without urea,High moisture,No_Urea+Low_moisture
+16: g_Frigoribacterium,0,7,Without urea,Low moisture,No_Urea+High_moisture
+16: g_Frigoribacterium,0,7,Without urea,High moisture,No_Urea+Low_moisture
+16: g_Frigoribacterium,0,7,Without urea,Low moisture,No_Urea+High_moisture
+16: g_Frigoribacterium,0,7,With urea,High moisture,Urea+Low_moisture
+16: g_Frigoribacterium,0,7,Without urea,High moisture,No_Urea+Low_moisture
+16: g_Frigoribacterium,0,7,Without urea,Low moisture,No_Urea+High_moisture
+16: g_Frigoribacterium,0,7,With urea,High moisture,Urea+Low_moisture
+16: g_Frigoribacterium,3,14,With urea,High moisture,Urea+Low_moisture
+16: g_Frigoribacterium,2,14,With urea,High moisture,Urea+Low_moisture
+16: g_Frigoribacterium,0,14,With urea,Low moisture,Urea+High_moisture
+16: g_Frigoribacterium,0,14,With urea,Low moisture,Urea+High_moisture
+16: g_Frigoribacterium,0,14,With urea,Low moisture,Urea+High_moisture
+16: g_Frigoribacterium,0,14,With urea,High moisture,Urea+Low_moisture
+16: g_Frigoribacterium,35,21,With urea,High moisture,Urea+Low_moisture
+16: g_Frigoribacterium,17,21,With urea,High moisture,Urea+Low_moisture
+16: g_Frigoribacterium,0,21,Without urea,High moisture,No_Urea+Low_moisture
+16: g_Frigoribacterium,0,21,With urea,Low moisture,Urea+High_moisture
+16: g_Frigoribacterium,0,21,Without urea,High moisture,No_Urea+Low_moisture
+16: g_Frigoribacterium,0,21,Without urea,High moisture,No_Urea+Low_moisture
+16: g_Frigoribacterium,0,21,Without urea,Low moisture,No_Urea+High_moisture
+16: g_Frigoribacterium,383,35,With urea,High moisture,Urea+Low_moisture
+16: g_Frigoribacterium,203,35,With urea,High moisture,Urea+Low_moisture
+16: g_Frigoribacterium,177,35,With urea,High moisture,Urea+Low_moisture
+16: g_Frigoribacterium,0,35,With urea,Low moisture,Urea+High_moisture
+16: g_Frigoribacterium,0,35,With urea,Low moisture,Urea+High_moisture
+16: g_Frigoribacterium,0,35,With urea,Low moisture,Urea+High_moisture
+16: g_Frigoribacterium,232,63,With urea,High moisture,Urea+Low_moisture
+16: g_Frigoribacterium,44,63,With urea,High moisture,Urea+Low_moisture
+16: g_Frigoribacterium,10,63,With urea,High moisture,Urea+Low_moisture
+16: g_Frigoribacterium,0,63,With urea,Low moisture,Urea+High_moisture
+16: g_Frigoribacterium,0,63,Without urea,Low moisture,No_Urea+High_moisture
+16: g_Frigoribacterium,0,63,With urea,Low moisture,Urea+High_moisture
+16: g_Frigoribacterium,0,63,Without urea,High moisture,No_Urea+Low_moisture
+16: g_Frigoribacterium,0,63,Without urea,High moisture,No_Urea+Low_moisture
+16: g_Frigoribacterium,0,63,Without urea,Low moisture,No_Urea+High_moisture
+16: g_Frigoribacterium,0,63,With urea,Low moisture,Urea+High_moisture
+16: g_Frigoribacterium,0,63,Without urea,Low moisture,No_Urea+High_moisture
+16: g_Frigoribacterium,0,63,Without urea,High moisture,No_Urea+Low_moisture
+17: f_Paenibacillaceae,0,0,Without urea,High moisture,No_Urea+Low_moisture
+17: f_Paenibacillaceae,0,0,Without urea,Low moisture,No_Urea+High_moisture
+17: f_Paenibacillaceae,0,0,Without urea,High moisture,No_Urea+Low_moisture
+17: f_Paenibacillaceae,0,0,With urea,High moisture,Urea+Low_moisture
+17: f_Paenibacillaceae,0,0,Without urea,Low moisture,No_Urea+High_moisture
+17: f_Paenibacillaceae,0,0,With urea,High moisture,Urea+Low_moisture
+17: f_Paenibacillaceae,0,0,Without urea,Low moisture,No_Urea+High_moisture
+17: f_Paenibacillaceae,0,0,With urea,Low moisture,Urea+High_moisture
+17: f_Paenibacillaceae,0,0,Without urea,High moisture,No_Urea+Low_moisture
+17: f_Paenibacillaceae,0,0,With urea,Low moisture,Urea+High_moisture
+17: f_Paenibacillaceae,0,0,With urea,Low moisture,Urea+High_moisture
+17: f_Paenibacillaceae,0,0,With urea,High moisture,Urea+Low_moisture
+17: f_Paenibacillaceae,96,7,With urea,Low moisture,Urea+High_moisture
+17: f_Paenibacillaceae,15,7,With urea,High moisture,Urea+Low_moisture
+17: f_Paenibacillaceae,11,7,With urea,High moisture,Urea+Low_moisture
+17: f_Paenibacillaceae,8,7,With urea,High moisture,Urea+Low_moisture
+17: f_Paenibacillaceae,0,7,Without urea,High moisture,No_Urea+Low_moisture
+17: f_Paenibacillaceae,0,7,Without urea,High moisture,No_Urea+Low_moisture
+17: f_Paenibacillaceae,0,7,Without urea,Low moisture,No_Urea+High_moisture
+17: f_Paenibacillaceae,0,7,Without urea,Low moisture,No_Urea+High_moisture
+17: f_Paenibacillaceae,0,7,Without urea,Low moisture,No_Urea+High_moisture
+17: f_Paenibacillaceae,0,7,Without urea,High moisture,No_Urea+Low_moisture
+17: f_Paenibacillaceae,337,14,With urea,Low moisture,Urea+High_moisture
+17: f_Paenibacillaceae,161,14,With urea,Low moisture,Urea+High_moisture
+17: f_Paenibacillaceae,97,14,With urea,Low moisture,Urea+High_moisture
+17: f_Paenibacillaceae,37,14,With urea,High moisture,Urea+Low_moisture
+17: f_Paenibacillaceae,37,14,With urea,High moisture,Urea+Low_moisture
+17: f_Paenibacillaceae,29,14,With urea,High moisture,Urea+Low_moisture
+17: f_Paenibacillaceae,26,21,With urea,Low moisture,Urea+High_moisture
+17: f_Paenibacillaceae,13,21,With urea,High moisture,Urea+Low_moisture
+17: f_Paenibacillaceae,6,21,With urea,High moisture,Urea+Low_moisture
+17: f_Paenibacillaceae,0,21,Without urea,High moisture,No_Urea+Low_moisture
+17: f_Paenibacillaceae,0,21,Without urea,High moisture,No_Urea+Low_moisture
+17: f_Paenibacillaceae,0,21,Without urea,Low moisture,No_Urea+High_moisture
+17: f_Paenibacillaceae,0,21,Without urea,High moisture,No_Urea+Low_moisture
+17: f_Paenibacillaceae,8,35,With urea,High moisture,Urea+Low_moisture
+17: f_Paenibacillaceae,8,35,With urea,Low moisture,Urea+High_moisture
+17: f_Paenibacillaceae,5,35,With urea,High moisture,Urea+Low_moisture
+17: f_Paenibacillaceae,3,35,With urea,Low moisture,Urea+High_moisture
+17: f_Paenibacillaceae,2,35,With urea,High moisture,Urea+Low_moisture
+17: f_Paenibacillaceae,0,35,With urea,Low moisture,Urea+High_moisture
+17: f_Paenibacillaceae,1,63,With urea,Low moisture,Urea+High_moisture
+17: f_Paenibacillaceae,0,63,Without urea,High moisture,No_Urea+Low_moisture
+17: f_Paenibacillaceae,0,63,With urea,High moisture,Urea+Low_moisture
+17: f_Paenibacillaceae,0,63,Without urea,High moisture,No_Urea+Low_moisture
+17: f_Paenibacillaceae,0,63,Without urea,Low moisture,No_Urea+High_moisture
+17: f_Paenibacillaceae,0,63,With urea,Low moisture,Urea+High_moisture
+17: f_Paenibacillaceae,0,63,With urea,High moisture,Urea+Low_moisture
+17: f_Paenibacillaceae,0,63,With urea,Low moisture,Urea+High_moisture
+17: f_Paenibacillaceae,0,63,Without urea,Low moisture,No_Urea+High_moisture
+17: f_Paenibacillaceae,0,63,Without urea,High moisture,No_Urea+Low_moisture
+17: f_Paenibacillaceae,0,63,With urea,High moisture,Urea+Low_moisture
+17: f_Paenibacillaceae,0,63,Without urea,Low moisture,No_Urea+High_moisture
+18: g_Chthoniobacter,0,0,Without urea,High moisture,No_Urea+Low_moisture
+18: g_Chthoniobacter,0,0,With urea,Low moisture,Urea+High_moisture
+18: g_Chthoniobacter,0,0,With urea,Low moisture,Urea+High_moisture
+18: g_Chthoniobacter,0,0,Without urea,High moisture,No_Urea+Low_moisture
+18: g_Chthoniobacter,0,0,With urea,High moisture,Urea+Low_moisture
+18: g_Chthoniobacter,0,0,With urea,High moisture,Urea+Low_moisture
+18: g_Chthoniobacter,0,0,With urea,Low moisture,Urea+High_moisture
+18: g_Chthoniobacter,0,0,Without urea,Low moisture,No_Urea+High_moisture
+18: g_Chthoniobacter,0,0,Without urea,Low moisture,No_Urea+High_moisture
+18: g_Chthoniobacter,0,0,With urea,High moisture,Urea+Low_moisture
+18: g_Chthoniobacter,0,0,Without urea,High moisture,No_Urea+Low_moisture
+18: g_Chthoniobacter,0,0,Without urea,Low moisture,No_Urea+High_moisture
+18: g_Chthoniobacter,20,7,With urea,High moisture,Urea+Low_moisture
+18: g_Chthoniobacter,18,7,With urea,Low moisture,Urea+High_moisture
+18: g_Chthoniobacter,17,7,With urea,High moisture,Urea+Low_moisture
+18: g_Chthoniobacter,14,7,With urea,High moisture,Urea+Low_moisture
+18: g_Chthoniobacter,0,7,Without urea,Low moisture,No_Urea+High_moisture
+18: g_Chthoniobacter,0,7,Without urea,Low moisture,No_Urea+High_moisture
+18: g_Chthoniobacter,0,7,Without urea,Low moisture,No_Urea+High_moisture
+18: g_Chthoniobacter,0,7,Without urea,High moisture,No_Urea+Low_moisture
+18: g_Chthoniobacter,0,7,Without urea,High moisture,No_Urea+Low_moisture
+18: g_Chthoniobacter,0,7,Without urea,High moisture,No_Urea+Low_moisture
+18: g_Chthoniobacter,134,14,With urea,Low moisture,Urea+High_moisture
+18: g_Chthoniobacter,125,14,With urea,Low moisture,Urea+High_moisture
+18: g_Chthoniobacter,116,14,With urea,Low moisture,Urea+High_moisture
+18: g_Chthoniobacter,47,14,With urea,High moisture,Urea+Low_moisture
+18: g_Chthoniobacter,21,14,With urea,High moisture,Urea+Low_moisture
+18: g_Chthoniobacter,20,14,With urea,High moisture,Urea+Low_moisture
+18: g_Chthoniobacter,115,21,With urea,Low moisture,Urea+High_moisture
+18: g_Chthoniobacter,28,21,With urea,High moisture,Urea+Low_moisture
+18: g_Chthoniobacter,8,21,With urea,High moisture,Urea+Low_moisture
+18: g_Chthoniobacter,0,21,Without urea,High moisture,No_Urea+Low_moisture
+18: g_Chthoniobacter,0,21,Without urea,Low moisture,No_Urea+High_moisture
+18: g_Chthoniobacter,0,21,Without urea,High moisture,No_Urea+Low_moisture
+18: g_Chthoniobacter,0,21,Without urea,High moisture,No_Urea+Low_moisture
+18: g_Chthoniobacter,111,35,With urea,Low moisture,Urea+High_moisture
+18: g_Chthoniobacter,72,35,With urea,Low moisture,Urea+High_moisture
+18: g_Chthoniobacter,59,35,With urea,Low moisture,Urea+High_moisture
+18: g_Chthoniobacter,8,35,With urea,High moisture,Urea+Low_moisture
+18: g_Chthoniobacter,6,35,With urea,High moisture,Urea+Low_moisture
+18: g_Chthoniobacter,2,35,With urea,High moisture,Urea+Low_moisture
+18: g_Chthoniobacter,32,63,With urea,Low moisture,Urea+High_moisture
+18: g_Chthoniobacter,24,63,With urea,Low moisture,Urea+High_moisture
+18: g_Chthoniobacter,15,63,With urea,Low moisture,Urea+High_moisture
+18: g_Chthoniobacter,6,63,With urea,High moisture,Urea+Low_moisture
+18: g_Chthoniobacter,5,63,With urea,High moisture,Urea+Low_moisture
+18: g_Chthoniobacter,2,63,With urea,High moisture,Urea+Low_moisture
+18: g_Chthoniobacter,1,63,Without urea,Low moisture,No_Urea+High_moisture
+18: g_Chthoniobacter,0,63,Without urea,High moisture,No_Urea+Low_moisture
+18: g_Chthoniobacter,0,63,Without urea,Low moisture,No_Urea+High_moisture
+18: g_Chthoniobacter,0,63,Without urea,Low moisture,No_Urea+High_moisture
+18: g_Chthoniobacter,0,63,Without urea,High moisture,No_Urea+Low_moisture
+18: g_Chthoniobacter,0,63,Without urea,High moisture,No_Urea+Low_moisture
+28: g_Sphingomonas,0,0,With urea,Low moisture,Urea+High_moisture
+28: g_Sphingomonas,0,0,Without urea,High moisture,No_Urea+Low_moisture
+28: g_Sphingomonas,0,0,With urea,Low moisture,Urea+High_moisture
+28: g_Sphingomonas,0,0,Without urea,Low moisture,No_Urea+High_moisture
+28: g_Sphingomonas,0,0,With urea,High moisture,Urea+Low_moisture
+28: g_Sphingomonas,0,0,With urea,High moisture,Urea+Low_moisture
+28: g_Sphingomonas,0,0,With urea,Low moisture,Urea+High_moisture
+28: g_Sphingomonas,0,0,With urea,High moisture,Urea+Low_moisture
+28: g_Sphingomonas,0,0,Without urea,High moisture,No_Urea+Low_moisture
+28: g_Sphingomonas,0,0,Without urea,Low moisture,No_Urea+High_moisture
+28: g_Sphingomonas,0,0,Without urea,Low moisture,No_Urea+High_moisture
+28: g_Sphingomonas,0,0,Without urea,High moisture,No_Urea+Low_moisture
+28: g_Sphingomonas,12,7,With urea,High moisture,Urea+Low_moisture
+28: g_Sphingomonas,10,7,With urea,High moisture,Urea+Low_moisture
+28: g_Sphingomonas,8,7,With urea,High moisture,Urea+Low_moisture
+28: g_Sphingomonas,2,7,With urea,Low moisture,Urea+High_moisture
+28: g_Sphingomonas,0,7,Without urea,High moisture,No_Urea+Low_moisture
+28: g_Sphingomonas,0,7,Without urea,High moisture,No_Urea+Low_moisture
+28: g_Sphingomonas,0,7,Without urea,High moisture,No_Urea+Low_moisture
+28: g_Sphingomonas,0,7,Without urea,Low moisture,No_Urea+High_moisture
+28: g_Sphingomonas,0,7,Without urea,Low moisture,No_Urea+High_moisture
+28: g_Sphingomonas,0,7,Without urea,Low moisture,No_Urea+High_moisture
+28: g_Sphingomonas,45,14,With urea,High moisture,Urea+Low_moisture
+28: g_Sphingomonas,39,14,With urea,High moisture,Urea+Low_moisture
+28: g_Sphingomonas,24,14,With urea,High moisture,Urea+Low_moisture
+28: g_Sphingomonas,9,14,With urea,Low moisture,Urea+High_moisture
+28: g_Sphingomonas,6,14,With urea,Low moisture,Urea+High_moisture
+28: g_Sphingomonas,4,14,With urea,Low moisture,Urea+High_moisture
+28: g_Sphingomonas,53,21,With urea,High moisture,Urea+Low_moisture
+28: g_Sphingomonas,40,21,With urea,High moisture,Urea+Low_moisture
+28: g_Sphingomonas,3,21,With urea,Low moisture,Urea+High_moisture
+28: g_Sphingomonas,0,21,Without urea,High moisture,No_Urea+Low_moisture
+28: g_Sphingomonas,0,21,Without urea,Low moisture,No_Urea+High_moisture
+28: g_Sphingomonas,0,21,Without urea,High moisture,No_Urea+Low_moisture
+28: g_Sphingomonas,0,21,Without urea,High moisture,No_Urea+Low_moisture
+28: g_Sphingomonas,108,35,With urea,High moisture,Urea+Low_moisture
+28: g_Sphingomonas,100,35,With urea,High moisture,Urea+Low_moisture
+28: g_Sphingomonas,96,35,With urea,High moisture,Urea+Low_moisture
+28: g_Sphingomonas,7,35,With urea,Low moisture,Urea+High_moisture
+28: g_Sphingomonas,1,35,With urea,Low moisture,Urea+High_moisture
+28: g_Sphingomonas,1,35,With urea,Low moisture,Urea+High_moisture
+28: g_Sphingomonas,83,63,With urea,High moisture,Urea+Low_moisture
+28: g_Sphingomonas,63,63,With urea,High moisture,Urea+Low_moisture
+28: g_Sphingomonas,38,63,With urea,High moisture,Urea+Low_moisture
+28: g_Sphingomonas,4,63,With urea,Low moisture,Urea+High_moisture
+28: g_Sphingomonas,0,63,With urea,Low moisture,Urea+High_moisture
+28: g_Sphingomonas,0,63,With urea,Low moisture,Urea+High_moisture
+28: g_Sphingomonas,0,63,Without urea,Low moisture,No_Urea+High_moisture
+28: g_Sphingomonas,0,63,Without urea,Low moisture,No_Urea+High_moisture
+28: g_Sphingomonas,0,63,Without urea,High moisture,No_Urea+Low_moisture
+28: g_Sphingomonas,0,63,Without urea,High moisture,No_Urea+Low_moisture
+28: g_Sphingomonas,0,63,Without urea,Low moisture,No_Urea+High_moisture
+28: g_Sphingomonas,0,63,Without urea,High moisture,No_Urea+Low_moisture
+19: g_Pseudoxanthomonas,1,0,With urea,Low moisture,Urea+High_moisture
+19: g_Pseudoxanthomonas,0,0,With urea,High moisture,Urea+Low_moisture
+19: g_Pseudoxanthomonas,0,0,Without urea,High moisture,No_Urea+Low_moisture
+19: g_Pseudoxanthomonas,0,0,With urea,Low moisture,Urea+High_moisture
+19: g_Pseudoxanthomonas,0,0,Without urea,Low moisture,No_Urea+High_moisture
+19: g_Pseudoxanthomonas,0,0,Without urea,Low moisture,No_Urea+High_moisture
+19: g_Pseudoxanthomonas,0,0,With urea,High moisture,Urea+Low_moisture
+19: g_Pseudoxanthomonas,0,0,Without urea,Low moisture,No_Urea+High_moisture
+19: g_Pseudoxanthomonas,0,0,Without urea,High moisture,No_Urea+Low_moisture
+19: g_Pseudoxanthomonas,0,0,With urea,High moisture,Urea+Low_moisture
+19: g_Pseudoxanthomonas,0,0,Without urea,High moisture,No_Urea+Low_moisture
+19: g_Pseudoxanthomonas,0,0,With urea,Low moisture,Urea+High_moisture
+19: g_Pseudoxanthomonas,118,7,With urea,High moisture,Urea+Low_moisture
+19: g_Pseudoxanthomonas,83,7,With urea,High moisture,Urea+Low_moisture
+19: g_Pseudoxanthomonas,75,7,With urea,High moisture,Urea+Low_moisture
+19: g_Pseudoxanthomonas,12,7,With urea,Low moisture,Urea+High_moisture
+19: g_Pseudoxanthomonas,0,7,Without urea,Low moisture,No_Urea+High_moisture
+19: g_Pseudoxanthomonas,0,7,Without urea,High moisture,No_Urea+Low_moisture
+19: g_Pseudoxanthomonas,0,7,Without urea,High moisture,No_Urea+Low_moisture
+19: g_Pseudoxanthomonas,0,7,Without urea,Low moisture,No_Urea+High_moisture
+19: g_Pseudoxanthomonas,0,7,Without urea,High moisture,No_Urea+Low_moisture
+19: g_Pseudoxanthomonas,0,7,Without urea,Low moisture,No_Urea+High_moisture
+19: g_Pseudoxanthomonas,169,14,With urea,High moisture,Urea+Low_moisture
+19: g_Pseudoxanthomonas,145,14,With urea,High moisture,Urea+Low_moisture
+19: g_Pseudoxanthomonas,85,14,With urea,High moisture,Urea+Low_moisture
+19: g_Pseudoxanthomonas,68,14,With urea,Low moisture,Urea+High_moisture
+19: g_Pseudoxanthomonas,40,14,With urea,Low moisture,Urea+High_moisture
+19: g_Pseudoxanthomonas,28,14,With urea,Low moisture,Urea+High_moisture
+19: g_Pseudoxanthomonas,170,21,With urea,High moisture,Urea+Low_moisture
+19: g_Pseudoxanthomonas,120,21,With urea,High moisture,Urea+Low_moisture
+19: g_Pseudoxanthomonas,17,21,With urea,Low moisture,Urea+High_moisture
+19: g_Pseudoxanthomonas,0,21,Without urea,High moisture,No_Urea+Low_moisture
+19: g_Pseudoxanthomonas,0,21,Without urea,Low moisture,No_Urea+High_moisture
+19: g_Pseudoxanthomonas,0,21,Without urea,High moisture,No_Urea+Low_moisture
+19: g_Pseudoxanthomonas,0,21,Without urea,High moisture,No_Urea+Low_moisture
+19: g_Pseudoxanthomonas,244,35,With urea,High moisture,Urea+Low_moisture
+19: g_Pseudoxanthomonas,178,35,With urea,High moisture,Urea+Low_moisture
+19: g_Pseudoxanthomonas,123,35,With urea,High moisture,Urea+Low_moisture
+19: g_Pseudoxanthomonas,24,35,With urea,Low moisture,Urea+High_moisture
+19: g_Pseudoxanthomonas,13,35,With urea,Low moisture,Urea+High_moisture
+19: g_Pseudoxanthomonas,13,35,With urea,Low moisture,Urea+High_moisture
+19: g_Pseudoxanthomonas,101,63,With urea,High moisture,Urea+Low_moisture
+19: g_Pseudoxanthomonas,71,63,With urea,Low moisture,Urea+High_moisture
+19: g_Pseudoxanthomonas,40,63,With urea,Low moisture,Urea+High_moisture
+19: g_Pseudoxanthomonas,30,63,With urea,High moisture,Urea+Low_moisture
+19: g_Pseudoxanthomonas,19,63,With urea,Low moisture,Urea+High_moisture
+19: g_Pseudoxanthomonas,14,63,With urea,High moisture,Urea+Low_moisture
+19: g_Pseudoxanthomonas,0,63,Without urea,High moisture,No_Urea+Low_moisture
+19: g_Pseudoxanthomonas,0,63,Without urea,Low moisture,No_Urea+High_moisture
+19: g_Pseudoxanthomonas,0,63,Without urea,High moisture,No_Urea+Low_moisture
+19: g_Pseudoxanthomonas,0,63,Without urea,Low moisture,No_Urea+High_moisture
+19: g_Pseudoxanthomonas,0,63,Without urea,High moisture,No_Urea+Low_moisture
+19: g_Pseudoxanthomonas,0,63,Without urea,Low moisture,No_Urea+High_moisture
+21: g_Pedobacter,0,0,Without urea,High moisture,No_Urea+Low_moisture
+21: g_Pedobacter,0,0,Without urea,Low moisture,No_Urea+High_moisture
+21: g_Pedobacter,0,0,Without urea,High moisture,No_Urea+Low_moisture
+21: g_Pedobacter,0,0,Without urea,High moisture,No_Urea+Low_moisture
+21: g_Pedobacter,0,0,Without urea,Low moisture,No_Urea+High_moisture
+21: g_Pedobacter,0,0,With urea,High moisture,Urea+Low_moisture
+21: g_Pedobacter,0,0,With urea,High moisture,Urea+Low_moisture
+21: g_Pedobacter,0,0,With urea,Low moisture,Urea+High_moisture
+21: g_Pedobacter,0,0,With urea,Low moisture,Urea+High_moisture
+21: g_Pedobacter,0,0,Without urea,Low moisture,No_Urea+High_moisture
+21: g_Pedobacter,0,0,With urea,Low moisture,Urea+High_moisture
+21: g_Pedobacter,0,0,With urea,High moisture,Urea+Low_moisture
+21: g_Pedobacter,106,7,With urea,High moisture,Urea+Low_moisture
+21: g_Pedobacter,78,7,With urea,High moisture,Urea+Low_moisture
+21: g_Pedobacter,65,7,With urea,High moisture,Urea+Low_moisture
+21: g_Pedobacter,37,7,With urea,Low moisture,Urea+High_moisture
+21: g_Pedobacter,1,7,Without urea,Low moisture,No_Urea+High_moisture
+21: g_Pedobacter,1,7,Without urea,High moisture,No_Urea+Low_moisture
+21: g_Pedobacter,0,7,Without urea,Low moisture,No_Urea+High_moisture
+21: g_Pedobacter,0,7,Without urea,Low moisture,No_Urea+High_moisture
+21: g_Pedobacter,0,7,Without urea,High moisture,No_Urea+Low_moisture
+21: g_Pedobacter,0,7,Without urea,High moisture,No_Urea+Low_moisture
+21: g_Pedobacter,107,14,With urea,High moisture,Urea+Low_moisture
+21: g_Pedobacter,96,14,With urea,High moisture,Urea+Low_moisture
+21: g_Pedobacter,72,14,With urea,High moisture,Urea+Low_moisture
+21: g_Pedobacter,65,14,With urea,Low moisture,Urea+High_moisture
+21: g_Pedobacter,58,14,With urea,Low moisture,Urea+High_moisture
+21: g_Pedobacter,23,14,With urea,Low moisture,Urea+High_moisture
+21: g_Pedobacter,202,21,With urea,High moisture,Urea+Low_moisture
+21: g_Pedobacter,46,21,With urea,High moisture,Urea+Low_moisture
+21: g_Pedobacter,19,21,With urea,Low moisture,Urea+High_moisture
+21: g_Pedobacter,0,21,Without urea,Low moisture,No_Urea+High_moisture
+21: g_Pedobacter,0,21,Without urea,High moisture,No_Urea+Low_moisture
+21: g_Pedobacter,0,21,Without urea,High moisture,No_Urea+Low_moisture
+21: g_Pedobacter,0,21,Without urea,High moisture,No_Urea+Low_moisture
+21: g_Pedobacter,134,35,With urea,High moisture,Urea+Low_moisture
+21: g_Pedobacter,134,35,With urea,High moisture,Urea+Low_moisture
+21: g_Pedobacter,87,35,With urea,High moisture,Urea+Low_moisture
+21: g_Pedobacter,33,35,With urea,Low moisture,Urea+High_moisture
+21: g_Pedobacter,9,35,With urea,Low moisture,Urea+High_moisture
+21: g_Pedobacter,7,35,With urea,Low moisture,Urea+High_moisture
+21: g_Pedobacter,123,63,With urea,High moisture,Urea+Low_moisture
+21: g_Pedobacter,36,63,With urea,High moisture,Urea+Low_moisture
+21: g_Pedobacter,14,63,With urea,High moisture,Urea+Low_moisture
+21: g_Pedobacter,11,63,With urea,Low moisture,Urea+High_moisture
+21: g_Pedobacter,10,63,With urea,Low moisture,Urea+High_moisture
+21: g_Pedobacter,6,63,With urea,Low moisture,Urea+High_moisture
+21: g_Pedobacter,0,63,Without urea,Low moisture,No_Urea+High_moisture
+21: g_Pedobacter,0,63,Without urea,Low moisture,No_Urea+High_moisture
+21: g_Pedobacter,0,63,Without urea,Low moisture,No_Urea+High_moisture
+21: g_Pedobacter,0,63,Without urea,High moisture,No_Urea+Low_moisture
+21: g_Pedobacter,0,63,Without urea,High moisture,No_Urea+Low_moisture
+21: g_Pedobacter,0,63,Without urea,High moisture,No_Urea+Low_moisture
+22: g_Brevundimonas,0,0,Without urea,Low moisture,No_Urea+High_moisture
+22: g_Brevundimonas,0,0,Without urea,Low moisture,No_Urea+High_moisture
+22: g_Brevundimonas,0,0,With urea,Low moisture,Urea+High_moisture
+22: g_Brevundimonas,0,0,With urea,High moisture,Urea+Low_moisture
+22: g_Brevundimonas,0,0,With urea,High moisture,Urea+Low_moisture
+22: g_Brevundimonas,0,0,With urea,Low moisture,Urea+High_moisture
+22: g_Brevundimonas,0,0,Without urea,High moisture,No_Urea+Low_moisture
+22: g_Brevundimonas,0,0,With urea,High moisture,Urea+Low_moisture
+22: g_Brevundimonas,0,0,Without urea,Low moisture,No_Urea+High_moisture
+22: g_Brevundimonas,0,0,Without urea,High moisture,No_Urea+Low_moisture
+22: g_Brevundimonas,0,0,With urea,Low moisture,Urea+High_moisture
+22: g_Brevundimonas,0,0,Without urea,High moisture,No_Urea+Low_moisture
+22: g_Brevundimonas,31,7,With urea,High moisture,Urea+Low_moisture
+22: g_Brevundimonas,31,7,With urea,High moisture,Urea+Low_moisture
+22: g_Brevundimonas,24,7,With urea,High moisture,Urea+Low_moisture
+22: g_Brevundimonas,20,7,With urea,Low moisture,Urea+High_moisture
+22: g_Brevundimonas,0,7,Without urea,Low moisture,No_Urea+High_moisture
+22: g_Brevundimonas,0,7,Without urea,High moisture,No_Urea+Low_moisture
+22: g_Brevundimonas,0,7,Without urea,Low moisture,No_Urea+High_moisture
+22: g_Brevundimonas,0,7,Without urea,Low moisture,No_Urea+High_moisture
+22: g_Brevundimonas,0,7,Without urea,High moisture,No_Urea+Low_moisture
+22: g_Brevundimonas,0,7,Without urea,High moisture,No_Urea+Low_moisture
+22: g_Brevundimonas,104,14,With urea,High moisture,Urea+Low_moisture
+22: g_Brevundimonas,102,14,With urea,High moisture,Urea+Low_moisture
+22: g_Brevundimonas,33,14,With urea,Low moisture,Urea+High_moisture
+22: g_Brevundimonas,31,14,With urea,Low moisture,Urea+High_moisture
+22: g_Brevundimonas,30,14,With urea,High moisture,Urea+Low_moisture
+22: g_Brevundimonas,14,14,With urea,Low moisture,Urea+High_moisture
+22: g_Brevundimonas,88,21,With urea,High moisture,Urea+Low_moisture
+22: g_Brevundimonas,86,21,With urea,High moisture,Urea+Low_moisture
+22: g_Brevundimonas,13,21,With urea,Low moisture,Urea+High_moisture
+22: g_Brevundimonas,0,21,Without urea,High moisture,No_Urea+Low_moisture
+22: g_Brevundimonas,0,21,Without urea,Low moisture,No_Urea+High_moisture
+22: g_Brevundimonas,0,21,Without urea,High moisture,No_Urea+Low_moisture
+22: g_Brevundimonas,0,21,Without urea,High moisture,No_Urea+Low_moisture
+22: g_Brevundimonas,96,35,With urea,High moisture,Urea+Low_moisture
+22: g_Brevundimonas,72,35,With urea,High moisture,Urea+Low_moisture
+22: g_Brevundimonas,34,35,With urea,High moisture,Urea+Low_moisture
+22: g_Brevundimonas,18,35,With urea,Low moisture,Urea+High_moisture
+22: g_Brevundimonas,5,35,With urea,Low moisture,Urea+High_moisture
+22: g_Brevundimonas,4,35,With urea,Low moisture,Urea+High_moisture
+22: g_Brevundimonas,64,63,With urea,High moisture,Urea+Low_moisture
+22: g_Brevundimonas,38,63,With urea,High moisture,Urea+Low_moisture
+22: g_Brevundimonas,26,63,With urea,High moisture,Urea+Low_moisture
+22: g_Brevundimonas,14,63,With urea,Low moisture,Urea+High_moisture
+22: g_Brevundimonas,8,63,With urea,Low moisture,Urea+High_moisture
+22: g_Brevundimonas,7,63,With urea,Low moisture,Urea+High_moisture
+22: g_Brevundimonas,0,63,Without urea,Low moisture,No_Urea+High_moisture
+22: g_Brevundimonas,0,63,Without urea,High moisture,No_Urea+Low_moisture
+22: g_Brevundimonas,0,63,Without urea,Low moisture,No_Urea+High_moisture
+22: g_Brevundimonas,0,63,Without urea,Low moisture,No_Urea+High_moisture
+22: g_Brevundimonas,0,63,Without urea,High moisture,No_Urea+Low_moisture
+22: g_Brevundimonas,0,63,Without urea,High moisture,No_Urea+Low_moisture
+23: f_Gemmatimonadaceae,0,0,Without urea,High moisture,No_Urea+Low_moisture
+23: f_Gemmatimonadaceae,0,0,With urea,High moisture,Urea+Low_moisture
+23: f_Gemmatimonadaceae,0,0,With urea,Low moisture,Urea+High_moisture
+23: f_Gemmatimonadaceae,0,0,With urea,Low moisture,Urea+High_moisture
+23: f_Gemmatimonadaceae,0,0,With urea,High moisture,Urea+Low_moisture
+23: f_Gemmatimonadaceae,0,0,Without urea,High moisture,No_Urea+Low_moisture
+23: f_Gemmatimonadaceae,0,0,Without urea,Low moisture,No_Urea+High_moisture
+23: f_Gemmatimonadaceae,0,0,With urea,High moisture,Urea+Low_moisture
+23: f_Gemmatimonadaceae,0,0,Without urea,Low moisture,No_Urea+High_moisture
+23: f_Gemmatimonadaceae,0,0,Without urea,Low moisture,No_Urea+High_moisture
+23: f_Gemmatimonadaceae,0,0,With urea,Low moisture,Urea+High_moisture
+23: f_Gemmatimonadaceae,0,0,Without urea,High moisture,No_Urea+Low_moisture
+23: f_Gemmatimonadaceae,7,7,With urea,Low moisture,Urea+High_moisture
+23: f_Gemmatimonadaceae,6,7,With urea,High moisture,Urea+Low_moisture
+23: f_Gemmatimonadaceae,3,7,With urea,High moisture,Urea+Low_moisture
+23: f_Gemmatimonadaceae,2,7,With urea,High moisture,Urea+Low_moisture
+23: f_Gemmatimonadaceae,0,7,Without urea,High moisture,No_Urea+Low_moisture
+23: f_Gemmatimonadaceae,0,7,Without urea,Low moisture,No_Urea+High_moisture
+23: f_Gemmatimonadaceae,0,7,Without urea,Low moisture,No_Urea+High_moisture
+23: f_Gemmatimonadaceae,0,7,Without urea,High moisture,No_Urea+Low_moisture
+23: f_Gemmatimonadaceae,0,7,Without urea,Low moisture,No_Urea+High_moisture
+23: f_Gemmatimonadaceae,0,7,Without urea,High moisture,No_Urea+Low_moisture
+23: f_Gemmatimonadaceae,70,14,With urea,Low moisture,Urea+High_moisture
+23: f_Gemmatimonadaceae,68,14,With urea,Low moisture,Urea+High_moisture
+23: f_Gemmatimonadaceae,44,14,With urea,Low moisture,Urea+High_moisture
+23: f_Gemmatimonadaceae,29,14,With urea,High moisture,Urea+Low_moisture
+23: f_Gemmatimonadaceae,14,14,With urea,High moisture,Urea+Low_moisture
+23: f_Gemmatimonadaceae,13,14,With urea,High moisture,Urea+Low_moisture
+23: f_Gemmatimonadaceae,72,21,With urea,Low moisture,Urea+High_moisture
+23: f_Gemmatimonadaceae,34,21,With urea,High moisture,Urea+Low_moisture
+23: f_Gemmatimonadaceae,30,21,With urea,High moisture,Urea+Low_moisture
+23: f_Gemmatimonadaceae,0,21,Without urea,High moisture,No_Urea+Low_moisture
+23: f_Gemmatimonadaceae,0,21,Without urea,Low moisture,No_Urea+High_moisture
+23: f_Gemmatimonadaceae,0,21,Without urea,High moisture,No_Urea+Low_moisture
+23: f_Gemmatimonadaceae,0,21,Without urea,High moisture,No_Urea+Low_moisture
+23: f_Gemmatimonadaceae,123,35,With urea,Low moisture,Urea+High_moisture
+23: f_Gemmatimonadaceae,79,35,With urea,Low moisture,Urea+High_moisture
+23: f_Gemmatimonadaceae,76,35,With urea,Low moisture,Urea+High_moisture
+23: f_Gemmatimonadaceae,27,35,With urea,High moisture,Urea+Low_moisture
+23: f_Gemmatimonadaceae,25,35,With urea,High moisture,Urea+Low_moisture
+23: f_Gemmatimonadaceae,18,35,With urea,High moisture,Urea+Low_moisture
+23: f_Gemmatimonadaceae,95,63,With urea,Low moisture,Urea+High_moisture
+23: f_Gemmatimonadaceae,90,63,With urea,Low moisture,Urea+High_moisture
+23: f_Gemmatimonadaceae,60,63,With urea,Low moisture,Urea+High_moisture
+23: f_Gemmatimonadaceae,32,63,With urea,High moisture,Urea+Low_moisture
+23: f_Gemmatimonadaceae,8,63,With urea,High moisture,Urea+Low_moisture
+23: f_Gemmatimonadaceae,8,63,With urea,High moisture,Urea+Low_moisture
+23: f_Gemmatimonadaceae,0,63,Without urea,Low moisture,No_Urea+High_moisture
+23: f_Gemmatimonadaceae,0,63,Without urea,Low moisture,No_Urea+High_moisture
+23: f_Gemmatimonadaceae,0,63,Without urea,High moisture,No_Urea+Low_moisture
+23: f_Gemmatimonadaceae,0,63,Without urea,High moisture,No_Urea+Low_moisture
+23: f_Gemmatimonadaceae,0,63,Without urea,Low moisture,No_Urea+High_moisture
+23: f_Gemmatimonadaceae,0,63,Without urea,High moisture,No_Urea+Low_moisture
+24: g_Pusillimonas,1,0,Without urea,Low moisture,No_Urea+High_moisture
+24: g_Pusillimonas,1,0,Without urea,Low moisture,No_Urea+High_moisture
+24: g_Pusillimonas,1,0,With urea,High moisture,Urea+Low_moisture
+24: g_Pusillimonas,0,0,Without urea,Low moisture,No_Urea+High_moisture
+24: g_Pusillimonas,0,0,Without urea,High moisture,No_Urea+Low_moisture
+24: g_Pusillimonas,0,0,Without urea,High moisture,No_Urea+Low_moisture
+24: g_Pusillimonas,0,0,Without urea,High moisture,No_Urea+Low_moisture
+24: g_Pusillimonas,0,0,With urea,Low moisture,Urea+High_moisture
+24: g_Pusillimonas,0,0,With urea,Low moisture,Urea+High_moisture
+24: g_Pusillimonas,0,0,With urea,Low moisture,Urea+High_moisture
+24: g_Pusillimonas,0,0,With urea,High moisture,Urea+Low_moisture
+24: g_Pusillimonas,0,0,With urea,High moisture,Urea+Low_moisture
+24: g_Pusillimonas,53,7,With urea,Low moisture,Urea+High_moisture
+24: g_Pusillimonas,32,7,With urea,High moisture,Urea+Low_moisture
+24: g_Pusillimonas,22,7,With urea,High moisture,Urea+Low_moisture
+24: g_Pusillimonas,13,7,With urea,High moisture,Urea+Low_moisture
+24: g_Pusillimonas,0,7,Without urea,Low moisture,No_Urea+High_moisture
+24: g_Pusillimonas,0,7,Without urea,Low moisture,No_Urea+High_moisture
+24: g_Pusillimonas,0,7,Without urea,High moisture,No_Urea+Low_moisture
+24: g_Pusillimonas,0,7,Without urea,Low moisture,No_Urea+High_moisture
+24: g_Pusillimonas,0,7,Without urea,High moisture,No_Urea+Low_moisture
+24: g_Pusillimonas,0,7,Without urea,High moisture,No_Urea+Low_moisture
+24: g_Pusillimonas,132,14,With urea,Low moisture,Urea+High_moisture
+24: g_Pusillimonas,99,14,With urea,Low moisture,Urea+High_moisture
+24: g_Pusillimonas,60,14,With urea,Low moisture,Urea+High_moisture
+24: g_Pusillimonas,26,14,With urea,High moisture,Urea+Low_moisture
+24: g_Pusillimonas,24,14,With urea,High moisture,Urea+Low_moisture
+24: g_Pusillimonas,14,14,With urea,High moisture,Urea+Low_moisture
+24: g_Pusillimonas,133,21,With urea,Low moisture,Urea+High_moisture
+24: g_Pusillimonas,36,21,With urea,High moisture,Urea+Low_moisture
+24: g_Pusillimonas,19,21,With urea,High moisture,Urea+Low_moisture
+24: g_Pusillimonas,0,21,Without urea,High moisture,No_Urea+Low_moisture
+24: g_Pusillimonas,0,21,Without urea,Low moisture,No_Urea+High_moisture
+24: g_Pusillimonas,0,21,Without urea,High moisture,No_Urea+Low_moisture
+24: g_Pusillimonas,0,21,Without urea,High moisture,No_Urea+Low_moisture
+24: g_Pusillimonas,255,35,With urea,Low moisture,Urea+High_moisture
+24: g_Pusillimonas,175,35,With urea,Low moisture,Urea+High_moisture
+24: g_Pusillimonas,120,35,With urea,Low moisture,Urea+High_moisture
+24: g_Pusillimonas,49,35,With urea,High moisture,Urea+Low_moisture
+24: g_Pusillimonas,37,35,With urea,High moisture,Urea+Low_moisture
+24: g_Pusillimonas,32,35,With urea,High moisture,Urea+Low_moisture
+24: g_Pusillimonas,186,63,With urea,Low moisture,Urea+High_moisture
+24: g_Pusillimonas,163,63,With urea,Low moisture,Urea+High_moisture
+24: g_Pusillimonas,129,63,With urea,Low moisture,Urea+High_moisture
+24: g_Pusillimonas,26,63,With urea,High moisture,Urea+Low_moisture
+24: g_Pusillimonas,14,63,With urea,High moisture,Urea+Low_moisture
+24: g_Pusillimonas,11,63,With urea,High moisture,Urea+Low_moisture
+24: g_Pusillimonas,1,63,Without urea,Low moisture,No_Urea+High_moisture
+24: g_Pusillimonas,0,63,Without urea,Low moisture,No_Urea+High_moisture
+24: g_Pusillimonas,0,63,Without urea,Low moisture,No_Urea+High_moisture
+24: g_Pusillimonas,0,63,Without urea,High moisture,No_Urea+Low_moisture
+24: g_Pusillimonas,0,63,Without urea,High moisture,No_Urea+Low_moisture
+24: g_Pusillimonas,0,63,Without urea,High moisture,No_Urea+Low_moisture
+25: g_Pedobacter,0,0,With urea,Low moisture,Urea+High_moisture
+25: g_Pedobacter,0,0,Without urea,High moisture,No_Urea+Low_moisture
+25: g_Pedobacter,0,0,With urea,High moisture,Urea+Low_moisture
+25: g_Pedobacter,0,0,With urea,Low moisture,Urea+High_moisture
+25: g_Pedobacter,0,0,With urea,High moisture,Urea+Low_moisture
+25: g_Pedobacter,0,0,Without urea,High moisture,No_Urea+Low_moisture
+25: g_Pedobacter,0,0,With urea,High moisture,Urea+Low_moisture
+25: g_Pedobacter,0,0,With urea,Low moisture,Urea+High_moisture
+25: g_Pedobacter,0,0,Without urea,Low moisture,No_Urea+High_moisture
+25: g_Pedobacter,0,0,Without urea,Low moisture,No_Urea+High_moisture
+25: g_Pedobacter,0,0,Without urea,Low moisture,No_Urea+High_moisture
+25: g_Pedobacter,0,0,Without urea,High moisture,No_Urea+Low_moisture
+25: g_Pedobacter,60,7,With urea,High moisture,Urea+Low_moisture
+25: g_Pedobacter,34,7,With urea,High moisture,Urea+Low_moisture
+25: g_Pedobacter,24,7,With urea,High moisture,Urea+Low_moisture
+25: g_Pedobacter,7,7,With urea,Low moisture,Urea+High_moisture
+25: g_Pedobacter,1,7,Without urea,High moisture,No_Urea+Low_moisture
+25: g_Pedobacter,0,7,Without urea,Low moisture,No_Urea+High_moisture
+25: g_Pedobacter,0,7,Without urea,Low moisture,No_Urea+High_moisture
+25: g_Pedobacter,0,7,Without urea,Low moisture,No_Urea+High_moisture
+25: g_Pedobacter,0,7,Without urea,High moisture,No_Urea+Low_moisture
+25: g_Pedobacter,0,7,Without urea,High moisture,No_Urea+Low_moisture
+25: g_Pedobacter,58,14,With urea,High moisture,Urea+Low_moisture
+25: g_Pedobacter,50,14,With urea,High moisture,Urea+Low_moisture
+25: g_Pedobacter,37,14,With urea,High moisture,Urea+Low_moisture
+25: g_Pedobacter,8,14,With urea,Low moisture,Urea+High_moisture
+25: g_Pedobacter,6,14,With urea,Low moisture,Urea+High_moisture
+25: g_Pedobacter,1,14,With urea,Low moisture,Urea+High_moisture
+25: g_Pedobacter,53,21,With urea,High moisture,Urea+Low_moisture
+25: g_Pedobacter,41,21,With urea,High moisture,Urea+Low_moisture
+25: g_Pedobacter,2,21,With urea,Low moisture,Urea+High_moisture
+25: g_Pedobacter,0,21,Without urea,High moisture,No_Urea+Low_moisture
+25: g_Pedobacter,0,21,Without urea,Low moisture,No_Urea+High_moisture
+25: g_Pedobacter,0,21,Without urea,High moisture,No_Urea+Low_moisture
+25: g_Pedobacter,0,21,Without urea,High moisture,No_Urea+Low_moisture
+25: g_Pedobacter,55,35,With urea,High moisture,Urea+Low_moisture
+25: g_Pedobacter,42,35,With urea,High moisture,Urea+Low_moisture
+25: g_Pedobacter,40,35,With urea,High moisture,Urea+Low_moisture
+25: g_Pedobacter,2,35,With urea,Low moisture,Urea+High_moisture
+25: g_Pedobacter,1,35,With urea,Low moisture,Urea+High_moisture
+25: g_Pedobacter,1,35,With urea,Low moisture,Urea+High_moisture
+25: g_Pedobacter,71,63,With urea,High moisture,Urea+Low_moisture
+25: g_Pedobacter,19,63,With urea,High moisture,Urea+Low_moisture
+25: g_Pedobacter,3,63,With urea,High moisture,Urea+Low_moisture
+25: g_Pedobacter,3,63,With urea,Low moisture,Urea+High_moisture
+25: g_Pedobacter,0,63,With urea,Low moisture,Urea+High_moisture
+25: g_Pedobacter,0,63,Without urea,High moisture,No_Urea+Low_moisture
+25: g_Pedobacter,0,63,With urea,Low moisture,Urea+High_moisture
+25: g_Pedobacter,0,63,Without urea,High moisture,No_Urea+Low_moisture
+25: g_Pedobacter,0,63,Without urea,Low moisture,No_Urea+High_moisture
+25: g_Pedobacter,0,63,Without urea,Low moisture,No_Urea+High_moisture
+25: g_Pedobacter,0,63,Without urea,High moisture,No_Urea+Low_moisture
+25: g_Pedobacter,0,63,Without urea,Low moisture,No_Urea+High_moisture
+26: f_Pseudoxanthomonas,0,0,Without urea,Low moisture,No_Urea+High_moisture
+26: f_Pseudoxanthomonas,0,0,Without urea,High moisture,No_Urea+Low_moisture
+26: f_Pseudoxanthomonas,0,0,With urea,High moisture,Urea+Low_moisture
+26: f_Pseudoxanthomonas,0,0,Without urea,Low moisture,No_Urea+High_moisture
+26: f_Pseudoxanthomonas,0,0,With urea,High moisture,Urea+Low_moisture
+26: f_Pseudoxanthomonas,0,0,Without urea,High moisture,No_Urea+Low_moisture
+26: f_Pseudoxanthomonas,0,0,Without urea,High moisture,No_Urea+Low_moisture
+26: f_Pseudoxanthomonas,0,0,With urea,High moisture,Urea+Low_moisture
+26: f_Pseudoxanthomonas,0,0,With urea,Low moisture,Urea+High_moisture
+26: f_Pseudoxanthomonas,0,0,With urea,Low moisture,Urea+High_moisture
+26: f_Pseudoxanthomonas,0,0,With urea,Low moisture,Urea+High_moisture
+26: f_Pseudoxanthomonas,0,0,Without urea,Low moisture,No_Urea+High_moisture
+26: f_Pseudoxanthomonas,55,7,With urea,High moisture,Urea+Low_moisture
+26: f_Pseudoxanthomonas,31,7,With urea,High moisture,Urea+Low_moisture
+26: f_Pseudoxanthomonas,31,7,With urea,High moisture,Urea+Low_moisture
+26: f_Pseudoxanthomonas,4,7,With urea,Low moisture,Urea+High_moisture
+26: f_Pseudoxanthomonas,0,7,Without urea,High moisture,No_Urea+Low_moisture
+26: f_Pseudoxanthomonas,0,7,Without urea,High moisture,No_Urea+Low_moisture
+26: f_Pseudoxanthomonas,0,7,Without urea,High moisture,No_Urea+Low_moisture
+26: f_Pseudoxanthomonas,0,7,Without urea,Low moisture,No_Urea+High_moisture
+26: f_Pseudoxanthomonas,0,7,Without urea,Low moisture,No_Urea+High_moisture
+26: f_Pseudoxanthomonas,0,7,Without urea,Low moisture,No_Urea+High_moisture
+26: f_Pseudoxanthomonas,71,14,With urea,High moisture,Urea+Low_moisture
+26: f_Pseudoxanthomonas,66,14,With urea,High moisture,Urea+Low_moisture
+26: f_Pseudoxanthomonas,41,14,With urea,High moisture,Urea+Low_moisture
+26: f_Pseudoxanthomonas,26,14,With urea,Low moisture,Urea+High_moisture
+26: f_Pseudoxanthomonas,17,14,With urea,Low moisture,Urea+High_moisture
+26: f_Pseudoxanthomonas,12,14,With urea,Low moisture,Urea+High_moisture
+26: f_Pseudoxanthomonas,69,21,With urea,High moisture,Urea+Low_moisture
+26: f_Pseudoxanthomonas,49,21,With urea,High moisture,Urea+Low_moisture
+26: f_Pseudoxanthomonas,10,21,With urea,Low moisture,Urea+High_moisture
+26: f_Pseudoxanthomonas,0,21,Without urea,Low moisture,No_Urea+High_moisture
+26: f_Pseudoxanthomonas,0,21,Without urea,High moisture,No_Urea+Low_moisture
+26: f_Pseudoxanthomonas,0,21,Without urea,High moisture,No_Urea+Low_moisture
+26: f_Pseudoxanthomonas,0,21,Without urea,High moisture,No_Urea+Low_moisture
+26: f_Pseudoxanthomonas,91,35,With urea,High moisture,Urea+Low_moisture
+26: f_Pseudoxanthomonas,83,35,With urea,High moisture,Urea+Low_moisture
+26: f_Pseudoxanthomonas,64,35,With urea,High moisture,Urea+Low_moisture
+26: f_Pseudoxanthomonas,11,35,With urea,Low moisture,Urea+High_moisture
+26: f_Pseudoxanthomonas,5,35,With urea,Low moisture,Urea+High_moisture
+26: f_Pseudoxanthomonas,4,35,With urea,Low moisture,Urea+High_moisture
+26: f_Pseudoxanthomonas,47,63,With urea,High moisture,Urea+Low_moisture
+26: f_Pseudoxanthomonas,34,63,With urea,Low moisture,Urea+High_moisture
+26: f_Pseudoxanthomonas,19,63,With urea,High moisture,Urea+Low_moisture
+26: f_Pseudoxanthomonas,17,63,With urea,Low moisture,Urea+High_moisture
+26: f_Pseudoxanthomonas,7,63,With urea,High moisture,Urea+Low_moisture
+26: f_Pseudoxanthomonas,5,63,With urea,Low moisture,Urea+High_moisture
+26: f_Pseudoxanthomonas,0,63,Without urea,High moisture,No_Urea+Low_moisture
+26: f_Pseudoxanthomonas,0,63,Without urea,Low moisture,No_Urea+High_moisture
+26: f_Pseudoxanthomonas,0,63,Without urea,Low moisture,No_Urea+High_moisture
+26: f_Pseudoxanthomonas,0,63,Without urea,Low moisture,No_Urea+High_moisture
+26: f_Pseudoxanthomonas,0,63,Without urea,High moisture,No_Urea+Low_moisture
+26: f_Pseudoxanthomonas,0,63,Without urea,High moisture,No_Urea+Low_moisture
+27: g_Pusillimonas,1,0,With urea,High moisture,Urea+Low_moisture
+27: g_Pusillimonas,0,0,Without urea,High moisture,No_Urea+Low_moisture
+27: g_Pusillimonas,0,0,Without urea,High moisture,No_Urea+Low_moisture
+27: g_Pusillimonas,0,0,With urea,High moisture,Urea+Low_moisture
+27: g_Pusillimonas,0,0,With urea,High moisture,Urea+Low_moisture
+27: g_Pusillimonas,0,0,Without urea,Low moisture,No_Urea+High_moisture
+27: g_Pusillimonas,0,0,Without urea,High moisture,No_Urea+Low_moisture
+27: g_Pusillimonas,0,0,Without urea,Low moisture,No_Urea+High_moisture
+27: g_Pusillimonas,0,0,Without urea,Low moisture,No_Urea+High_moisture
+27: g_Pusillimonas,0,0,With urea,Low moisture,Urea+High_moisture
+27: g_Pusillimonas,0,0,With urea,Low moisture,Urea+High_moisture
+27: g_Pusillimonas,0,0,With urea,Low moisture,Urea+High_moisture
+27: g_Pusillimonas,14,7,With urea,High moisture,Urea+Low_moisture
+27: g_Pusillimonas,9,7,With urea,High moisture,Urea+Low_moisture
+27: g_Pusillimonas,8,7,With urea,High moisture,Urea+Low_moisture
+27: g_Pusillimonas,2,7,With urea,Low moisture,Urea+High_moisture
+27: g_Pusillimonas,1,7,Without urea,Low moisture,No_Urea+High_moisture
+27: g_Pusillimonas,0,7,Without urea,High moisture,No_Urea+Low_moisture
+27: g_Pusillimonas,0,7,Without urea,High moisture,No_Urea+Low_moisture
+27: g_Pusillimonas,0,7,Without urea,Low moisture,No_Urea+High_moisture
+27: g_Pusillimonas,0,7,Without urea,Low moisture,No_Urea+High_moisture
+27: g_Pusillimonas,0,7,Without urea,High moisture,No_Urea+Low_moisture
+27: g_Pusillimonas,61,14,With urea,High moisture,Urea+Low_moisture
+27: g_Pusillimonas,32,14,With urea,High moisture,Urea+Low_moisture
+27: g_Pusillimonas,29,14,With urea,High moisture,Urea+Low_moisture
+27: g_Pusillimonas,9,14,With urea,Low moisture,Urea+High_moisture
+27: g_Pusillimonas,7,14,With urea,Low moisture,Urea+High_moisture
+27: g_Pusillimonas,5,14,With urea,Low moisture,Urea+High_moisture
+27: g_Pusillimonas,66,21,With urea,High moisture,Urea+Low_moisture
+27: g_Pusillimonas,21,21,With urea,High moisture,Urea+Low_moisture
+27: g_Pusillimonas,3,21,With urea,Low moisture,Urea+High_moisture
+27: g_Pusillimonas,0,21,Without urea,High moisture,No_Urea+Low_moisture
+27: g_Pusillimonas,0,21,Without urea,High moisture,No_Urea+Low_moisture
+27: g_Pusillimonas,0,21,Without urea,Low moisture,No_Urea+High_moisture
+27: g_Pusillimonas,0,21,Without urea,High moisture,No_Urea+Low_moisture
+27: g_Pusillimonas,119,35,With urea,High moisture,Urea+Low_moisture
+27: g_Pusillimonas,79,35,With urea,High moisture,Urea+Low_moisture
+27: g_Pusillimonas,35,35,With urea,High moisture,Urea+Low_moisture
+27: g_Pusillimonas,3,35,With urea,Low moisture,Urea+High_moisture
+27: g_Pusillimonas,2,35,With urea,Low moisture,Urea+High_moisture
+27: g_Pusillimonas,2,35,With urea,Low moisture,Urea+High_moisture
+27: g_Pusillimonas,97,63,With urea,High moisture,Urea+Low_moisture
+27: g_Pusillimonas,47,63,With urea,High moisture,Urea+Low_moisture
+27: g_Pusillimonas,33,63,With urea,High moisture,Urea+Low_moisture
+27: g_Pusillimonas,5,63,With urea,Low moisture,Urea+High_moisture
+27: g_Pusillimonas,3,63,With urea,Low moisture,Urea+High_moisture
+27: g_Pusillimonas,3,63,With urea,Low moisture,Urea+High_moisture
+27: g_Pusillimonas,0,63,Without urea,Low moisture,No_Urea+High_moisture
+27: g_Pusillimonas,0,63,Without urea,Low moisture,No_Urea+High_moisture
+27: g_Pusillimonas,0,63,Without urea,Low moisture,No_Urea+High_moisture
+27: g_Pusillimonas,0,63,Without urea,High moisture,No_Urea+Low_moisture
+27: g_Pusillimonas,0,63,Without urea,High moisture,No_Urea+Low_moisture
+27: g_Pusillimonas,0,63,Without urea,High moisture,No_Urea+Low_moisture
+20: g_Steroidobacter,0,0,With urea,High moisture,Urea+Low_moisture
+20: g_Steroidobacter,0,0,With urea,High moisture,Urea+Low_moisture
+20: g_Steroidobacter,0,0,With urea,High moisture,Urea+Low_moisture
+20: g_Steroidobacter,0,0,Without urea,High moisture,No_Urea+Low_moisture
+20: g_Steroidobacter,0,0,Without urea,Low moisture,No_Urea+High_moisture
+20: g_Steroidobacter,0,0,Without urea,Low moisture,No_Urea+High_moisture
+20: g_Steroidobacter,0,0,With urea,Low moisture,Urea+High_moisture
+20: g_Steroidobacter,0,0,Without urea,High moisture,No_Urea+Low_moisture
+20: g_Steroidobacter,0,0,With urea,Low moisture,Urea+High_moisture
+20: g_Steroidobacter,0,0,Without urea,Low moisture,No_Urea+High_moisture
+20: g_Steroidobacter,0,0,Without urea,High moisture,No_Urea+Low_moisture
+20: g_Steroidobacter,0,0,With urea,Low moisture,Urea+High_moisture
+20: g_Steroidobacter,2,7,With urea,High moisture,Urea+Low_moisture
+20: g_Steroidobacter,2,7,With urea,High moisture,Urea+Low_moisture
+20: g_Steroidobacter,2,7,With urea,High moisture,Urea+Low_moisture
+20: g_Steroidobacter,0,7,With urea,Low moisture,Urea+High_moisture
+20: g_Steroidobacter,0,7,Without urea,High moisture,No_Urea+Low_moisture
+20: g_Steroidobacter,0,7,Without urea,Low moisture,No_Urea+High_moisture
+20: g_Steroidobacter,0,7,Without urea,Low moisture,No_Urea+High_moisture
+20: g_Steroidobacter,0,7,Without urea,High moisture,No_Urea+Low_moisture
+20: g_Steroidobacter,0,7,Without urea,Low moisture,No_Urea+High_moisture
+20: g_Steroidobacter,0,7,Without urea,High moisture,No_Urea+Low_moisture
+20: g_Steroidobacter,16,14,With urea,Low moisture,Urea+High_moisture
+20: g_Steroidobacter,10,14,With urea,Low moisture,Urea+High_moisture
+20: g_Steroidobacter,9,14,With urea,Low moisture,Urea+High_moisture
+20: g_Steroidobacter,1,14,With urea,High moisture,Urea+Low_moisture
+20: g_Steroidobacter,0,14,With urea,High moisture,Urea+Low_moisture
+20: g_Steroidobacter,0,14,With urea,High moisture,Urea+Low_moisture
+20: g_Steroidobacter,25,21,With urea,Low moisture,Urea+High_moisture
+20: g_Steroidobacter,2,21,With urea,High moisture,Urea+Low_moisture
+20: g_Steroidobacter,0,21,Without urea,Low moisture,No_Urea+High_moisture
+20: g_Steroidobacter,0,21,With urea,High moisture,Urea+Low_moisture
+20: g_Steroidobacter,0,21,Without urea,High moisture,No_Urea+Low_moisture
+20: g_Steroidobacter,0,21,Without urea,High moisture,No_Urea+Low_moisture
+20: g_Steroidobacter,0,21,Without urea,High moisture,No_Urea+Low_moisture
+20: g_Steroidobacter,171,35,With urea,Low moisture,Urea+High_moisture
+20: g_Steroidobacter,150,35,With urea,Low moisture,Urea+High_moisture
+20: g_Steroidobacter,119,35,With urea,Low moisture,Urea+High_moisture
+20: g_Steroidobacter,6,35,With urea,High moisture,Urea+Low_moisture
+20: g_Steroidobacter,3,35,With urea,High moisture,Urea+Low_moisture
+20: g_Steroidobacter,3,35,With urea,High moisture,Urea+Low_moisture
+20: g_Steroidobacter,138,63,With urea,Low moisture,Urea+High_moisture
+20: g_Steroidobacter,128,63,With urea,Low moisture,Urea+High_moisture
+20: g_Steroidobacter,89,63,With urea,Low moisture,Urea+High_moisture
+20: g_Steroidobacter,3,63,With urea,High moisture,Urea+Low_moisture
+20: g_Steroidobacter,1,63,Without urea,High moisture,No_Urea+Low_moisture
+20: g_Steroidobacter,1,63,With urea,High moisture,Urea+Low_moisture
+20: g_Steroidobacter,1,63,With urea,High moisture,Urea+Low_moisture
+20: g_Steroidobacter,0,63,Without urea,Low moisture,No_Urea+High_moisture
+20: g_Steroidobacter,0,63,Without urea,Low moisture,No_Urea+High_moisture
+20: g_Steroidobacter,0,63,Without urea,High moisture,No_Urea+Low_moisture
+20: g_Steroidobacter,0,63,Without urea,Low moisture,No_Urea+High_moisture
+20: g_Steroidobacter,0,63,Without urea,High moisture,No_Urea+Low_moisture
